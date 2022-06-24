@@ -1,0 +1,129 @@
+{% extends 'blog/top_menu.html' %}
+
+{% load static %}
+
+{% block content %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+<link
+  rel="stylesheet"
+  href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css"
+/>
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script>
+  $(function () {
+    $("#datepicker").datepicker({ dateFormat: "yy-mm-dd" });
+  });
+</script>
+<script>
+    function go_page(){
+        var e = document.getElementById("source_select")
+
+        var x = document.getElementById("datepicker").value;
+        var y = e.options[e.selectedIndex].value;
+        var link_page = '';
+        link_page = '?country=' + y + '&date=' + x;
+        window.location=link_page;
+    }
+</script>
+<br>
+
+<div class="container">
+    <div class="row py-lg-5">
+        <div class="col-lg-6 col-md-8 mx-auto">
+            <h1 class="fw-light">글로벌 감염병 유입 위험도</h1>
+            <p class="lead text-muted">ECDC에서 제공하는 Medisys 글로벌 감염병 관련 기사 데이터를 분석하여 전세계 감염병 유입 및 발생 위험도 분석 결과 제공</p>
+            <p>
+                <a href="{% url 'drw_info' %}" class="btn btn-secondary my-2">About</a>
+                <a href="{% url 'drw_country' %}" class="btn btn-primary my-2">국가별 분석</a>
+                <a href="{% url 'drw_disease' %}" class="btn btn-secondary my-2">질병별 분석</a>
+            </p>
+        </div>
+    </div>
+    <div class="album py-5 bg-light">
+        <div style="text-align:center;" class="container">
+            <form>
+                <li>
+                    국가 선택
+                    <select id="source_select" name="country">
+                        <option value="kor" {% if country == "Korea, Republic of" %} selected {% endif %}>Korea, Republic of</option>
+                        <option value="jap" {% if country == "Japan" %} selected {% endif %}>Japan</option>
+                        <option value="chn" {% if country == "China" %} selected {% endif %}>China</option>
+                        <option value="tha" {% if country == "Thailand" %} selected {% endif %}>Thailand</option>
+                        <option value="usa" {% if country == "United States of America" %} selected {% endif %}>United States of America</option>
+                        <option value="uk" {% if country == "United Kingdom" %} selected {% endif %}>United Kingdom</option>
+                    </select>
+                </li>
+                <br>
+                <li>
+                    Date:
+                    <input autocomplete="off" type="text" id="datepicker" name="date" value="{{ set_date }}"/>
+                </li>
+                <button onclick="go_page();" type="submit" class="btn btn-secondary my-2">결과 보기</button>
+            </form>
+            {% if country %}
+            <br>
+            <br>
+            <br>
+            <p>
+                {{ country }} - 감염병 발생 위험도
+            </p>
+
+            <div style="text-align:center;">
+                <canvas id="myChart" style="margin: 0 auto;width:100%;max-width:600px"></canvas>
+            </div>
+
+            <br>
+            {{ country }} - {{ disease1 }} <a href="https://www.google.com/search?tbm=nws&q={{ country }} {{ disease1 }}" target="_blank">[구글 뉴스 검색]</a> / <a href="https://search.naver.com/search.naver?where=news&sm=top_hty&fbm=1&ie=utf8&query={{ country }} {{ disease1 }}" target="_blank">[네이버 뉴스 검색]</a>
+            <br>
+            {{ country }} - {{ disease2 }} <a href="https://www.google.com/search?tbm=nws&q={{ country }} {{ disease2 }}" target="_blank">[구글 뉴스 검색]</a> / <a href="https://search.naver.com/search.naver?where=news&sm=top_hty&fbm=1&ie=utf8&query={{ country }} {{ disease2 }}" target="_blank">[네이버 뉴스 검색]</a>
+            <br>
+            {{ country }} - {{ disease3 }} <a href="https://www.google.com/search?tbm=nws&q={{ country }} {{ disease3 }}" target="_blank">[구글 뉴스 검색]</a> / <a href="https://search.naver.com/search.naver?where=news&sm=top_hty&fbm=1&ie=utf8&query={{ country }} {{ disease3 }}" target="_blank">[네이버 뉴스 검색]</a>
+
+            <br>
+            <br>
+            <br>
+            <p>
+                {{ country }} - 감염병 발생 패턴 유사국
+            </p>
+
+            <div>
+                <img src="data:image/png;base64, {{ image_base64 }}" alt="somealt" />
+            </div>
+            {% endif %}
+            <script>
+            var xValues = {{ xaxis|safe }};
+
+            new Chart("myChart", {
+              type: "line",
+              data: {
+                labels: xValues,
+                datasets: [{
+                  data: {{ disease1_data }},
+                  borderColor: "red",
+                  label: "{{ disease1 }}",
+                  fill: false
+                }, {
+                  data: {{ disease2_data }},
+                  borderColor: "green",
+                  label: "{{ disease2 }}",
+                  fill: false
+                }, {
+                  data: {{ disease3_data }},
+                  borderColor: "blue",
+                  label: "{{ disease3 }}",
+                  fill: false
+                }]
+              },
+              options: {
+                legend: {display: true}
+              }
+            });
+            </script>
+
+
+        </div>
+    </div>
+</div>
+
+{% endblock %}

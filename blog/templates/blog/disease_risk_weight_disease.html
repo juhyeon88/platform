@@ -1,0 +1,105 @@
+{% extends 'blog/top_menu.html' %}
+
+{% load static %}
+
+{% block content %}
+
+<link
+  rel="stylesheet"
+  href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css"
+/>
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+<script>
+  $(function () {
+    $("#datepicker").datepicker({ dateFormat: "yy-mm-dd" });
+  });
+</script>
+<script>
+    function go_page(){
+        var e = document.getElementById("source_select")
+
+        var x = document.getElementById("datepicker").value;
+        var y = e.options[e.selectedIndex].value;
+        var link_page = '';
+        link_page = '?disease=' + y + '&date=' + x;
+        window.location=link_page;
+    }
+</script>
+
+<br>
+
+
+<div class="container">
+    <div class="row py-lg-5">
+        <div class="col-lg-6 col-md-8 mx-auto">
+            <h1 class="fw-light">글로벌 감염병 유입 위험도</h1>
+            <p class="lead text-muted">ECDC에서 제공하는 Medisys 글로벌 감염병 관련 기사 데이터를 분석하여 전세계 감염병 유입 및 발생 위험도 분석 결과 제공</p>
+            <p>
+                <a href="{% url 'drw_info' %}" class="btn btn-secondary my-2">About</a>
+                <a href="{% url 'drw_country' %}" class="btn btn-secondary my-2">국가별 분석</a>
+                <a href="{% url 'drw_disease' %}" class="btn btn-primary my-2">질병별 분석</a>
+            </p>
+        </div>
+    </div>
+    <div class="album py-5 bg-light">
+        <div style="text-align:center;" class="container">
+            <form>
+                <li>
+                    질병 선택
+                    <select id="source_select" name="disease">
+                        <option value="Dengue Fever" {% if disease == "Dengue Fever" %} selected {% endif %}>Dengue Fever</option>
+                        <option value="Diphtheria" {% if disease == "Diphtheria" %} selected {% endif %}>Diphtheria</option>
+                        <option value="Hepatitis A" {% if disease == "Hepatitis A" %} selected {% endif %}>Hepatitis A</option>
+                        <option value="Hepatitis B" {% if disease == "Hepatitis B" %} selected {% endif %}>Hepatitis B</option>
+                        <option value="Hepatitis C" {% if disease == "Hepatitis C" %} selected {% endif %}>Hepatitis C</option>
+                        <option value="Hepatitis E" {% if disease == "Hepatitis E" %} selected {% endif %}>Hepatitis E</option>
+                        <option value="Influenza" {% if disease == "Influenza" %} selected {% endif %}>Influenza</option>
+                        <option value="Lyme disease" {% if disease == "Lyme disease" %} selected {% endif %}>Lyme disease</option>
+                        <option value="MERS" {% if disease == "MERS" %} selected {% endif %}>MERS</option>
+                        <option value="Malaria" {% if disease == "Malaria" %} selected {% endif %}>Malaria</option>
+                        <option value="Measles" {% if disease == "Measles" %} selected {% endif %}>Measles</option>
+                        <option value="Norovirus" {% if disease == "Norovirus" %} selected {% endif %}>Norovirus</option>
+                        <option value="Pneumonia" {% if disease == "Pneumonia" %} selected {% endif %}>Pneumonia</option>
+                        <option value="STD" {% if disease == "STD" %} selected {% endif %}>STD</option>
+                        <option value="Syphilis" {% if disease == "Syphilis" %} selected {% endif %}>Syphilis</option>
+                        <option value="Smallpox" {% if disease == "Smallpox" %} selected {% endif %}>Smallpox</option>
+                    </select>
+                </li>
+                <br>
+                <li>
+                    Date:
+                    <input autocomplete="off" type="text" id="datepicker" name="date" value="{{ set_date }}"/>
+                </li>
+                <button onclick="go_page();" type="submit" class="btn btn-secondary my-2">결과 보기</button>
+            </form>
+            {% if disease %}
+            <br>
+            <br>
+            <br>
+            <p>
+                글로벌 {{ disease }} 관련 기사 발생 수
+            </p>
+
+            <div style="margin: 0 auto;width:100%;max-width:700px">
+                {% autoescape off %}
+                    {{ plot_div }}
+                {% endautoescape %}
+            </div>
+            <br>
+            <br>
+            <br>
+            <p>
+                {{ disease }} - 발생 패턴이 유사한 감염병
+            </p>
+
+            <div>
+                <img src="data:image/png;base64, {{ image_base64 }}" alt="somealt" />
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</div>
+
+{% endblock %}

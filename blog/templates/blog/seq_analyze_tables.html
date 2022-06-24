@@ -1,0 +1,66 @@
+{% extends 'blog/top_menu.html' %}
+
+{% load static %}
+
+{% block content %}
+<script>
+    function go_page(){
+        var e = document.getElementById("source_select")
+
+        var x = document.getElementById("samples").value;
+        var y = e.options[e.selectedIndex].value;
+        var link_page = '';
+        link_page = '?legend=' + y + '&samples=' + x;
+        window.location=link_page;
+    }
+</script>
+
+<br>
+
+<div class="container">
+    <div class="row py-lg-5">
+        <div class="col-lg-6 col-md-8 mx-auto">
+            <h1 class="fw-light">SARS-CoV-2 서열 데이터 분석</h1>
+            <p class="lead text-muted">GISAID에서 제공하는 SARS-CoV-2 서열 데이터를 분석하여 다양한 분석 결과 제공</p>
+            <p>
+                <a href="{% url 'seq_analyze' %}" class="btn btn-secondary my-2">About</a>
+                <a href="{% url 'seq_analyze_tables' %}" class="btn btn-primary my-2">서열 데이터 분석</a>
+            </p>
+        </div>
+    </div>
+    <div class="album py-5 bg-light">
+        <div style="text-align:center;" class="container">
+            <form>
+                <li>
+                    레이블 기준 선택
+                    <select id="source_select" name="legend">
+                        <option value="label" {% if legend == "label" %} selected {% endif %}>분류 예측 결과 레이블별</option>
+                        <option value="variant2" {% if legend == "variant2" %} selected {% endif %}>변이 종류별</option>
+                        <option value="who_region" {% if legend == "who_region" %} selected {% endif %}>WHO 분류 지역 기준 별</option>
+                        <option value="period" {% if legend == "period" %} selected {% endif %}>기간별</option>
+                    </select>
+                </li>
+                <li>
+                    Samples
+                    <input type="text" id="samples" name="samples" required minlength="1" maxlength="6" size="10" value = {{ samplesa }}>
+                     out of 200,000 data
+                </li>
+                <button onclick="go_page();" type="submit" class="btn btn-secondary my-2">결과 보기</button>
+            </form>
+            {% if legend %}
+
+            <div>
+                {% autoescape off %}
+                    {{ plot_div }}
+                {% endautoescape %}
+                {% if legend != 'period' %}
+                {{ table|safe }}
+                {% endif %}
+            </div>
+            {% endif %}
+        </div>
+        <br>
+    </div>
+</div>
+
+{% endblock %}

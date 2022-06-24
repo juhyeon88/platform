@@ -1,0 +1,149 @@
+{% extends 'blog/top_menu.html' %}
+
+{% load static %}
+
+{% block content %}
+<script type="text/javascript">
+function showImage() {
+    var src=[["../static/figures/France_2019.png","../static/figures/France_2018.png"],
+             ["../static/figures/Korea_2019.png","../static/figures/Korea_2018.png"],
+             ["../static/figures/UK_2019.png","../static/figures/UK_2018.png"]]
+    var src2=[["../static/figures/France_2019_Trend_of_Input_Features.png","../static/figures/France_2018_Trend_of_Input_Features.png"],
+             ["../static/figures/Korea_2019_Trend_of_Input_Features.png","../static/figures/Korea_2018_Trend_of_Input_Features.png"],
+             ["../static/figures/UK_2019_Trend_of_Input_Features.png","../static/figures/UK_2018_Trend_of_Input_Features.png"]]
+    var src3=[["../static/figures/France_2019_Prediction.png","../static/figures/France_2018_Prediction.png"],
+             ["../static/figures/Korea_2019_Prediction.png","../static/figures/Korea_2018_Prediction.png"],
+             ["../static/figures/UK_2019_Prediction.png","../static/figures/UK_2018_Prediction.png"]]
+    var src4=[["../static/figures/France_2019_Feature_Important.png","../static/figures/France_2018_Feature_Important.png"],
+             ["../static/figures/Korea_2019_Feature_Important.png","../static/figures/Korea_2018_Feature_Important.png"],
+             ["../static/figures/UK_2019_Feature_Important.png","../static/figures/UK_2018_Feature_Important.png"]]
+
+    myCountry = document.getElementById("country").value;
+    myYear = document.getElementById("year").value;
+
+    switch (myCountry) {
+      case "0":
+        CountryText = "프랑스";
+        break;
+      case "1":
+        CountryText = "대한민국";
+        break;
+      case "2":
+        CountryText = "영국";
+    }
+    switch (myYear) {
+      case "0":
+        YearText = "2019";
+        break;
+      case "1":
+        YearText = "2018";
+    }
+
+    var myHeader0 = YearText + "년 " + CountryText + " 뎅기열 예측 "
+    var myHeader1 = "Correlation Analysis"
+    var myHeader2 = "Trend of Input Features"
+    var myHeader3 = "Prediction Result"
+
+    var myCaption1 = "48개국의 수집된 감시 데이터를 사용하여 타국의 뎅기열 감시 데이터, 세계 기상 데이터 및 Google Trend 데이터와 대상 국가의 뎅기열 감시 데이터의 Cross-correaltion분석 결과"
+    var myCaption2 = [["2019년 프랑스의 Input feature의 정규화 trend:<br>최대 온도 12개월, Google 트렌드(모기) 1개월, 이탈리아 11개월, 볼리비아 4개월, 브라질 4개월, 핀란드 4개월, 에스토니아 5개월, 태국 10개월 시차 9개월, 영국 11개월","2018년 프랑스의 Input feature의 정규화 trend:<br>최대 온도 12개월, 구글 트렌드(모기) 1개월, 이탈리아 1개월, 볼리비아 4개월, 브라질 4개월, 핀란드 4개월, 에스토니아 5개월, 벨리즈 10개월, 코스타리카 9개월, 도미니카 9개월, 멕시코 10개월, 태국 9개월, 미국 9개월, 엘살바도르 11개월, 영국 11개월"],
+                      ["2019년 대한민국의 Input feature의 정규화 trend:<br>구글 트렌드(Dengue Fever), 벨리즈, 코스타리카, 도미니카 공화국, 이탈리아, 멕시코, 스페인, 태국, 니카라과, 미국 1개월, 볼리비아 5개월, 브라질 5개월, 에콰도르 5개월, 노르웨이 6개, 과테말라월 12개월, 온두라스 12개월", "2018년 대한민국의 Input feature의 정규화 trend:<br>코스타리카, 도미니카, 도미니카 공화국, 멕시코, 니카라과, 스페인, 태국, 미국, 볼리비아 5개월, 브라질 5개월, 에스토니아 5개월, 노르웨이 7개월, 온두라스 12개월, 말레이시아 12개월"],
+                      ["2019년 영국의 Input feature의 정규화 trend:<br>평균 온도 2개월s, 구글 트렌드 3개월, 이탈리아, 멕시코 12개월, 프랑스 1개월, 니카라과 1개월, 대한민국 1개월, 스페인 1개월, 볼리비아 6개월, 에스토니아 6개월, 핀란드 6개월, 헝가리 7개월.","2018년 대한민국의 Input feature의 정규화 trend:<br>최저 온도 1개월, 구글 트렌드(Dengue fever), 구글 트렌드(모기) 12개월, 이탈리아, 멕시코 12개월, 프랑스 1개월, 몰타 1개월, 니카라과 1개월, 대한민국 1개월, 스페인 1개월, 태국 1개월, 페루 4개월, 볼리비아 6개월, 브라질 6개월, 에스토니아 6개월, 헝가리 7개월, 벨리즈 12개"]]
+    var myCaption3 = [["비정상적인 상황이었던 2019년 프랑스의 경우, RMSE(Root Mean Square Error)는 예측 값의 예측 정확도가 29.807717로 나타나며, 상관 계수 값은 예측 추세의 정확도가 0.703753로 나타남", "2018년 프랑스의 경우 RMSE(Root Mean Square Error)는 예측 값의 예측 정확도가 8.631338로 나타나며, 상관 계수 값은 예측 추세의 정확도가 0.823022로 나타남"],
+                      ["비정상적인 상황이었던 2019년 한국의 경우, RMSE(Root Mean Square Error)는 예측값의 예측 정확도가 9.73824로 나타나며, 상관계수 값은 예측 추세의 정확도가 0.718798로 나타남", "2018년 대한민국의 경우, RMSE(Root Mean Square Error)는 예측 값의 예측 정확도가 5.408327로 나타나며, 상관 계수 값은 예측 추세의 정확도가 0.438910로 나타남"],
+                      ["비정상적인 상황이었던 2019년 영국의 경우, RMSE(Root Mean Square Error)는 예측 값의 예측 정확도를 30.486336로 나타나며, 상관계수 값은 예측 추세의 정확도가 0.0.658824로 나타남", "2018년 영국의 경우 RMSE(Root Mean Square Error)는 예측 값의 예측 정확도가 17.860571로 나타나며, 상관 계수 값은 예측 추세의 정확도가 0.586056로 나타남"]]
+    var myCaption4 = [["2019년 프랑스 분석에서의 변수 중요도","2018년 프랑스 분석에서의 변수 중요도"],
+                      ["2019년 대한민국 분석에서의 변수 중요도","2018년 대한민국 분석에서의 변수 중요도"],
+                      ["2019년 영국 분석에서의 변수 중요도","2018년 영국 분석에서의 변수 중요도"]]
+
+    if (myCountry == "-1" || myYear == "-1") {
+        document.getElementById("header0").style.visibility = "hidden";
+        document.getElementById("header1").style.visibility = "hidden";
+        document.getElementById("header2").style.visibility = "hidden";
+        document.getElementById("header3").style.visibility = "hidden";
+        document.getElementById("display-frame1").style.visibility = "hidden";
+        document.getElementById("display-frame2").style.visibility = "hidden";
+        document.getElementById("display-frame3").style.visibility = "hidden";
+        document.getElementById("display-frame4").style.visibility = "hidden";
+    } else {
+        document.getElementById('header0').innerHTML = myHeader0;
+        document.getElementById("header0").style.visibility = "visible";
+        document.getElementById('header1').innerHTML = myHeader1;
+        document.getElementById("header1").style.visibility = "visible";
+        document.getElementById('header2').innerHTML = myHeader2;
+        document.getElementById("header2").style.visibility = "visible";
+        document.getElementById('header3').innerHTML = myHeader3;
+        document.getElementById("header3").style.visibility = "visible";
+
+        document.getElementById('caption1').innerHTML = myCaption1;
+        document.getElementById("caption1").style.visibility = "visible";
+        document.getElementById('caption2').innerHTML = myCaption2[myCountry][myYear];
+        document.getElementById("caption2").style.visibility = "visible";
+        document.getElementById('caption3').innerHTML = myCaption3[myCountry][myYear];
+        document.getElementById("caption3").style.visibility = "visible";
+        document.getElementById('caption4').innerHTML = myCaption4[myCountry][myYear];
+        document.getElementById("caption4").style.visibility = "visible";
+
+        document.getElementById("display-frame1").src = src[myCountry][myYear];
+        document.getElementById("display-frame1").style.visibility = "visible";
+        document.getElementById("display-frame2").src = src2[myCountry][myYear];
+        document.getElementById("display-frame2").style.visibility = "visible";
+        document.getElementById("display-frame3").src = src3[myCountry][myYear];
+        document.getElementById("display-frame3").style.visibility = "visible";
+        document.getElementById("display-frame4").src = src4[myCountry][myYear];
+        document.getElementById("display-frame4").style.visibility = "visible";
+    }
+}
+
+</script>
+
+
+
+
+<br>
+
+
+<div class="container">
+    <div class="row py-lg-5">
+        <div class="col-lg-6 col-md-8 mx-auto">
+            <h1 class="fw-light">XGBoost를 활용한 뎅기열 예측</h1>
+            <p class="lead text-muted">뎅기열 바이러스 감염은 지리적 분포의 확대, 발생 빈도의 증가, 다중 혈청형의 공동 순환, 뎅기 출혈열의 새로운 출현 지역 등 많은 요인들 때문에 세계보건기구(WHO)는 뎅기열의 주요 공중보건 관심사로 분류했다. 이 모기 매개 질병은 A. albopictus와 Aedesaegypti와 같은 Aedes속의 모기에 의해 전염된다. 이 새로운 요인은 복잡하고 기후 요인, 도시화의 정도, 벡터 제어의 품질, 바이러스의 진화, 그리고 국제 여행을 포함한다.</p>
+            <p class="lead text-muted">뎅기열은 1980년대와 1990년대에 뎅기열 바이러스 감염은 동남아시아에서 남태평양 제도, 카리브해, 라틴 아메리카로 극적으로 확대되었으며, 2019년 세계보건기구(WHO)는 뎅기열의 세계 보건에 대한 더 큰 위협 중 9번째로 등재되었다. 이 정보에 따르면, 새롭게 등장하는 뎅기열 바이러스는 전세계 건강에 영향을 미치고 있다. 우리가 다양한 데이터 소스에서 수집한 감시 데이터에 따르면, 다음 사진과 같이 프랑스, 독일, 한국, 영국을 포함한 많은 국가에서 2019년 뎅기열 감염자 수가 급격히 증가했다. 2019년 동안 비정상적으로 풍토적인 상황으로 인해 뎅기열을 예측하는 것은 더 어려워졌다.</p>
+            <p>
+                <a href="{% url 'dengue' %}" class="btn btn-secondary my-2">About</a>
+                <a href="{% url 'dengue_report' %}" class="btn btn-primary my-2">예측 결과</a>
+            </p>
+        </div>
+    </div>
+    <div class="album py-5 bg-light">
+        <div style="text-align:center;" class="container">
+            파라미터 선택
+            <select name="country" id="country" title="Country">
+                <option value="-1">Country</option>
+                <option value="0">France</option>
+                <option value="1">South Korea</option>
+                <option value="2">United Kingdom</option>
+            </select>
+            <select name="year" id="year" title="Year">
+                <option value="-1">Year</option>
+                <option value="0">2019</option>
+                <option value="1">2018</option>
+            </select>
+            <input type="button" value="Show" onclick="showImage();" /><br>
+
+            <h1><p id='header0'></p></h1>
+            <h2><p id='header1'></p></h2>
+            <img id="display-frame1"/ src="" style="visibility: hidden;" width = 600px height = auto><br><br>
+            <p id='caption1'></p>
+            <h2><p id='header2'></p></h2>
+            <img id="display-frame2"/ src="" style="visibility: hidden;" width = 700 height = auto><br><br>
+            <p id='caption2'></p>
+            <h2><p id='header3'></p></h2>
+            <img id="display-frame3"/ src="" style="visibility: hidden;" width = 700 height = auto><br><br>
+            <p id='caption3'></p>
+            <img id="display-frame4"/ src="" style="visibility: hidden;" width = 700 height = auto><br><br>
+            <p id='caption4'></p>
+        </div>
+    </div>
+</div>
+
+{% endblock %}

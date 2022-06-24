@@ -1,0 +1,34 @@
+{% extends 'blog/top_menu.html' %}
+
+{% load static %}
+
+{% block content %}
+
+<br>
+
+<div class="container">
+    <div class="row py-lg-5">
+        <div class="col-lg-6 col-md-8 mx-auto">
+            <h1 class="fw-light">글로벌 감염병 유입 위험도</h1>
+            <p class="lead text-muted">ECDC에서 제공하는 Medisys 글로벌 감염병 관련 기사 데이터를 분석하여 전세계 감염병 유입 및 발생 위험도 분석 결과 제공</p>
+            <p>
+                <a href="{% url 'drw_info' %}" class="btn btn-primary my-2">About</a>
+                <a href="{% url 'drw_country' %}" class="btn btn-secondary my-2">국가별 분석</a>
+                <a href="{% url 'drw_disease' %}" class="btn btn-secondary my-2">질병별 분석</a>
+            </p>
+        </div>
+    </div>
+    <div class="album py-5 bg-light">
+        <div style="text-align:center;" class="container">
+            <img style="width:80%;" src="{% static 'favicon/drw_fig1.png' %}"/>
+        </div>
+        <br>
+        <div style="padding-left:10%;" class="container">
+            <li>ECDC에서 운영하는 Medisys 플랫폼을 통해 전세계 237개국에서 발생한 117 종류의 감염병과 관련된 뉴스 기사를 수집하여 사용</li>
+            <li>Medisys에서는 RSS를 통해 XML 형태의 데이터를 제공하며, 각 기사의 제목, 내용, 게시 날짜와 언어, 질병의 종류, 경도와 위도 정보를 제공함</li>
+            <li>이러한 정보들을 전처리하여 학습 데이터로 사용하고, Support Vector Regression을 사용하여 감염병의 발생 위험도를 예측함</li>
+        </div>
+    </div>
+</div>
+
+{% endblock %}

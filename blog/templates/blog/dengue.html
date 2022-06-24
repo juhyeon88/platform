@@ -1,0 +1,37 @@
+{% extends 'blog/top_menu.html' %}
+
+{% load static %}
+
+{% block content %}
+
+<br>
+
+<div class="container">
+    <div class="row py-lg-5">
+        <div class="col-lg-6 col-md-8 mx-auto">
+            <h1 class="fw-light">XGBoost를 활용한 뎅기열 예측</h1>
+            <p class="lead text-muted">뎅기열 바이러스 감염은 지리적 분포의 확대, 발생 빈도의 증가, 다중 혈청형의 공동 순환, 뎅기 출혈열의 새로운 출현 지역 등 많은 요인들 때문에 세계보건기구(WHO)는 뎅기열의 주요 공중보건 관심사로 분류했다. 이 모기 매개 질병은 A. albopictus와 Aedesaegypti와 같은 Aedes속의 모기에 의해 전염된다. 이 새로운 요인은 복잡하고 기후 요인, 도시화의 정도, 벡터 제어의 품질, 바이러스의 진화, 그리고 국제 여행을 포함한다.</p>
+            <p class="lead text-muted">뎅기열은 1980년대와 1990년대에 뎅기열 바이러스 감염은 동남아시아에서 남태평양 제도, 카리브해, 라틴 아메리카로 극적으로 확대되었으며, 2019년 세계보건기구(WHO)는 뎅기열의 세계 보건에 대한 더 큰 위협 중 9번째로 등재되었다. 이 정보에 따르면, 새롭게 등장하는 뎅기열 바이러스는 전세계 건강에 영향을 미치고 있다. 우리가 다양한 데이터 소스에서 수집한 감시 데이터에 따르면, 다음 사진과 같이 프랑스, 독일, 한국, 영국을 포함한 많은 국가에서 2019년 뎅기열 감염자 수가 급격히 증가했다. 2019년 동안 비정상적으로 풍토적인 상황으로 인해 뎅기열을 예측하는 것은 더 어려워졌다.</p>
+            <p>
+                <a href="{% url 'dengue' %}" class="btn btn-primary my-2">About</a>
+                <a href="{% url 'dengue_report' %}" class="btn btn-secondary my-2">예측 결과</a>
+            </p>
+        </div>
+    </div>
+    <div class="album py-5 bg-light">
+        <div style="text-align:center;" class="container">
+            <p><img src = '/static/figures/France_Trends.png' width = 650 height = auto></p>
+            <p><img src = '/static/figures/Korea_Trends.png' width = 650 height = auto></p>
+            <p><img src = '/static/figures/UK_Trends.png' width = 650 height = auto></p>
+        </div>
+        <br>
+        <div style="padding-left:10%;" class="container">
+            <li>본 연구는 XGBoost(Xtreme Gradient Boost Model)를 사용하여 프랑스와 태국에서 단기 및 장기 예측 뎅기열 유행 모델을 제안하는 것을 목표로함</li>
+            <li>다양한 데이터 소스의 보안 감시 데이터, 세계의 일일 기상 데이터 및 Google Trend의 몇 가지 관련 키워드 쿼리를 입력 데이터로 사용했음</li>
+            <li>감시 데이터와 다른 입력 데이터 사이의 시차를 식별하기 위해 cross-correlation analysis를 적용함</li>
+            <li>예측 모델의 정확도를 최적화하기 위해 다양한 조합의 training set 실험 결과를 살펴봄</li>
+        </div>
+    </div>
+</div>
+
+{% endblock %}

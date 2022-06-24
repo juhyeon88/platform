@@ -1,0 +1,38 @@
+,Disease,SVM,SSL,DNN
+0,Anisakis,0,0,0
+1,Ascaris,0,0,1
+2,Buruliulcer,0,0,0
+3,Chagas disease,1,0,0
+4,Chikungunya,0,0,1
+5,Coccidioidomycosis,1,0,1
+6,CreutzfeldtJakobDisease,0,0,0
+7,Dracunculus,0,0,1
+8,Echinococcus,0,0,0
+9,Enterobiasis,0,0,0
+10,Fasciola,0,0,0
+11,Fasciolopsiasis,1,0,0
+12,Filariasis,0,0,1
+13,Filovirus,0,0,1
+14,HendraVirus,1,0,1
+15,Hymenolepsis,1,0,0
+16,Lassa Fever,0,0,0
+17,Leishmaniasis,0,0,0
+18,Listeriosis,0,0,1
+19,Lujo,1,0,1
+20,Lymphogranuloma,0,0,0
+21,Mumps,0,0,0
+22,NDM-1,0,0,0
+23,NipahVirus,1,0,0
+24,Pertussis,1,0,1
+25,Saxitoxin Poisoning,0,0,1
+26,Scabies,0,0,0
+27,SchmallenbergVirus,1,0,0
+28,Sleeping Sickness,1,0,1
+29,Tetanus,1,0,1
+30,Trachoma,0,0,1
+31,Trichinella,0,0,0
+32,Trichomoniasis,1,0,0
+33,Trichuris,0,0,1
+34,Tularemia,0,0,0
+35,Visceral Leishmaniasis,0,0,1
+36,Yaws,0,0,0

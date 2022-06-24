@@ -1,0 +1,42 @@
+{% extends 'blog/top_menu.html' %}
+
+{% load static %}
+
+{% block content %}
+
+<br>
+
+<div class="container">
+    <div class="row py-lg-5">
+        <div class="col-lg-6 col-md-8 mx-auto">
+            <h1 class="fw-light">SARS-CoV-2 서열 데이터 분석</h1>
+            <p class="lead text-muted">GISAID에서 제공하는 SARS-CoV-2 서열 데이터를 분석하여 다양한 분석 결과 제공</p>
+            <p>
+                <a href="{% url 'seq_analyze' %}" class="btn btn-primary my-2">About</a>
+                <a href="{% url 'seq_analyze_tables' %}" class="btn btn-secondary my-2">서열 데이터 분석</a>
+            </p>
+        </div>
+    </div>
+    <div class="album py-5 bg-light">
+        <div style="text-align:center;" class="container">
+            <img style="width:50%;" src="{% static 'favicon/seq_fig1.png' %}"/>
+        </div>
+        <br>
+        <div style="padding-left:10%;" class="container">
+            <li>GISAID에서 수집한 SARS-CoV-2 서열 데이터를 벡터화하여 다양한 기계학습 기법을 활용하여 분석하며 다양한 분석 결과를 제공</li>
+            <li>SARS-CoV-2 서열 데이터에서 Spike protein 부분을 추출하여 분석에 활용하며 모든 데이터는 하나의 Reference를 기준으로 전처리 작업</li>
+        </div>
+        <br>
+        <div style="text-align:center;" class="container">
+            <img style="width:50%;" src="{% static 'favicon/seq_fig2.png' %}"/>
+        </div>
+        <br>
+        <div style="padding-left:10%;" class="container">
+            <li>전처리 된 서열 데이터를 t-SNE, DBSCAN과 같은 방법을 사용해서 차원축소 및 2차원 공간에 시각화하여 나타냄</li>
+            <li>각 변이들이 군집을 이룰 때에 중요한 역할을 하는 codon을 Random Forest 기법을 사용하여 추출하고 그 중요도를 나타냄</li>
+            <li>어떤 군집들이 서로 유사한지 또는 많이 차이가 나는지 벡터화 된 데이터를 비교하여 나타냄</li>
+        </div>
+    </div>
+</div>
+
+{% endblock %}

@@ -1,0 +1,769 @@
+,year,month,country,disease,case,state,content,ref
+0,2016.0,1,Lao PDR,Dengue,96.0,up,"Lao PDR As of 29 January 2016 , there were 96 cases of dengue and 1 death reported in Lao PDR for 2016",Dengue-20160209.pdf
+1,2016.0,2,Lao PDR,Dengue,82.0,down,"As of 26 February , there were 178 cases of dengue with 1 death reported in Lao PDR in 2016",Dengue-20160308.pdf
+2,2016.0,3,Lao PDR,Dengue,59.0,down,"Lao PDR As of 25 March , there were 237 cases of dengue with 1 death reported in Lao PDR in 2016",Dengue-20160405.pdf
+3,2016.0,4,Lao PDR,Dengue,23.0,down,"As of 8 April , there were 260 cases of dengue with one death reported in Lao PDR in 2016",Dengue-20160419.pdf
+4,2016.0,5,Lao PDR,Dengue,323.0,up,"As of 20 May , there were 583 cases of dengue with 6 deaths reported in Lao PDR in 2016",Dengue-20160531.pdf
+5,2016.0,6,Lao PDR,Dengue,257.0,down,"As of 3 June , there were 840 cases of dengue with 6 deaths reported in Lao PDR in 2016",Dengue-20160628.pdf
+6,2016.0,7,Lao PDR,Dengue,1525.0,up,"As of 29 July , there were 2.365 cases of dengue with 9 deaths reported in Lao PDR in 2016",Dengue-20160809.pdf
+7,2016.0,8,Lao PDR,Dengue,754.0,down,"Lao PDR As of 26 August , there were 3,119 cases of dengue with 9 deaths reported in Lao PDR in 2016",Dengue-20160906.pdf
+8,2016.0,9,Lao PDR,Dengue,645.0,down,"As of 23 September , there were 3,764 cases of dengue with 10 deaths reported in Lao PDR in 2016",Dengue-20161004.pdf
+9,2016.0,10,Lao PDR,Dengue,894.0,up,"Lao PDR As of 28 October , there were 4,658 cases of dengue with 10 deaths reported in Lao PDR in 2016",Dengue-20161102.pdf
+10,2016.0,11,Lao PDR,Dengue,489.0,down,"As of 19 November , there were 5,147 cases of dengue with 10 deaths reported in Lao PDR in 2016",Dengue-20161129.pdf
+11,2016.0,12,Lao PDR,Dengue,470.0,down,"Lao PDR As of 30 December , there were 5617 cases of dengue with 10 deaths reported in Lao PDR in 2016",Dengue-20170117.pdf
+12,2017.0,1,Lao PDR,Dengue,283.0,up,"Lao PDR As of 27 January in 2017 , there were 283 cases of dengue with no deaths reported in Lao PDR in 2017",Dengue-20170214.pdf
+13,2017.0,2,Lao PDR,Dengue,107.0,down,"Lao PDR As of 17 February in 2017 , there were 390 cases of dengue with no deaths reported in Lao PDR in 2017",Dengue-20170228.pdf
+14,2017.0,3,Lao PDR,Dengue,142.0,up,"Lao PDR As of 31 March 2017 , there were 532 cases of dengue with no deaths reported in Lao PDR in 2017",Dengue-20170411.pdf
+15,2017.0,4,Lao PDR,Dengue,195.0,up,"Lao PDR As of 28 April 2017 , there were 727 cases of dengue with no deaths reported in Lao PDR in 2017",Dengue-20170509.pdf
+16,2017.0,5,Lao PDR,Dengue,832.0,up,"Lao PDR As of 26 May , there were 1,559 cases of dengue with 3 deaths reported in Lao PDR in 2017",Dengue-20170606.pdf
+17,2017.0,6,Lao PDR,Dengue,579.0,down,"Lao PDR As of 9 June , there were 2,138 cases of dengue with 5 deaths reported in Lao PDR in 2017",Dengue-20170620.pdf
+18,2017.0,7,Lao PDR,Dengue,2721.0,up,"Lao PDR As of 21 July , there were 4,859 cases of dengue with 6 deaths reported in Lao PDR in 2017 , with 426 cases reported in epi week 29",Dengue-20170801.pdf
+19,2017.0,8,Lao PDR,Dengue,1871.0,down,"Lao PDR As of 18 August , there were 6,730 cases of dengue with 10 deaths reported in Lao PDR in 2017 , with 492 cases reported in epi week 33",Dengue-20170829.pdf
+20,2017.0,9,Lao PDR,Dengue,2517.0,up,"Lao PDR As of 29 September , there were 9,247 cases of dengue with 12 deaths reported in Lao PDR in 2017 , with 317 cases reported in epi week 39",Dengue-20171010.pdf
+21,2017.0,10,Lao PDR,Dengue,585.0,down,"Lao PDR As of 14 October , there were 9,832 cases of dengue with 14 deaths reported in Lao PDR in 2017 , with 307 cases with 1 death reported in epi week 41",Dengue-20171024.pdf
+22,2017.0,11,Lao PDR,Dengue,988.0,up,"Lao PDR As of 24 November , there were 10,820 cases of dengue with 14 deaths reported in Lao PDR in 2017 , with 199 cases with no deaths reported in epi week 47",Dengue-20171205.pdf
+23,2017.0,12,Lao PDR,Dengue,219.0,down,"As of 22 December , there were 11,039 cases of dengue with 14 deaths reported in Lao PDR in 2017 , with 28 cases with no deaths reported in epi week 51",Dengue-20180102.pdf
+24,2018.0,1,Lao PDR,Dengue,17.0,up,"As of 5 January 2018 , there were 17 cases of dengue with no deaths reported in Lao PDR in 2018",Dengue-20180116.pdf
+25,2018.0,2,Lao PDR,Dengue,18.0,up,"Lao PDR During week 7 of 2018 , 18 dengue cases and no deaths were reported",Dengue-20180227.pdf
+26,2018.0,3,Lao PDR,Dengue,47.0,up,"Lao PDR During week 12 of 2018 , 47 dengue cases and no deaths were reported",Dengue-20180412.pdf
+27,2018.0,4,Lao PDR,Dengue,42.0,down,"Lao PDR During week 17 of 2018 , 42 dengue cases were reported",Dengue-20180510.pdf
+28,2018.0,5,Lao PDR,Dengue,80.0,up,"Lao PDR In week 21 , 2018 , there were 80 dengue cases , with no deaths reported",Dengue-20180607.pdf
+29,2018.0,6,Lao PDR,Dengue,201.0,up,"Lao PDR In week 25 , 2018 , there were 201 dengue cases , with no deaths , reported",Dengue-20180705.pdf
+30,2018.0,7,Lao PDR,Dengue,605.0,up,"Lao PDR In week 30 and 31 , a total of 605 dengue cases including one death were reported , bringing the cumulative number of dengue cases so far this year to 3,428 with 13 deaths",Dengue-20180816.pdf
+31,2018.0,8,Lao PDR,Dengue,0.0,down,,
+32,2018.0,9,Lao PDR,Dengue,0.0,down,,
+33,2018.0,10,Lao PDR,Dengue,0.0,down,,
+34,2018.0,11,Lao PDR,Dengue,0.0,down,,
+35,2018.0,12,Lao PDR,Dengue,0.0,down,,
+36,2019.0,1,Lao PDR,Dengue,0.0,up,,
+37,2019.0,2,Lao PDR,Dengue,0.0,down,,
+38,2019.0,3,Lao PDR,Dengue,0.0,down,,
+39,2019.0,4,Lao PDR,Dengue,0.0,down,,
+40,2019.0,5,Lao PDR,Dengue,0.0,down,,
+41,2019.0,6,Lao PDR,Dengue,0.0,down,,
+42,2019.0,7,Lao PDR,Dengue,0.0,down,,
+43,2019.0,8,Lao PDR,Dengue,0.0,down,,
+44,2019.0,9,Lao PDR,Dengue,0.0,down,,
+45,2019.0,10,Lao PDR,Dengue,0.0,down,,
+46,2019.0,11,Lao PDR,Dengue,0.0,down,,
+47,2019.0,12,Lao PDR,Dengue,0.0,down,,
+48,2020.0,1,Lao PDR,Dengue,0.0,up,,
+49,2020.0,2,Lao PDR,Dengue,0.0,down,,
+50,2020.0,3,Lao PDR,Dengue,0.0,down,,
+51,2020.0,4,Lao PDR,Dengue,0.0,down,,
+52,2020.0,5,Lao PDR,Dengue,0.0,down,,
+53,2020.0,6,Lao PDR,Dengue,0.0,down,,
+54,2020.0,7,Lao PDR,Dengue,0.0,down,,
+55,2020.0,8,Lao PDR,Dengue,0.0,down,,
+56,2020.0,9,Lao PDR,Dengue,0.0,down,,
+57,2020.0,10,Lao PDR,Dengue,0.0,down,,
+58,2020.0,11,Lao PDR,Dengue,0.0,down,,
+59,2020.0,12,Lao PDR,Dengue,0.0,down,,
+60,2021.0,1,Lao PDR,Dengue,0.0,up,,
+61,2021.0,2,Lao PDR,Dengue,0.0,down,,
+62,2021.0,3,Lao PDR,Dengue,0.0,down,,
+63,2021.0,4,Lao PDR,Dengue,0.0,down,,
+64,2021.0,5,Lao PDR,Dengue,0.0,down,,
+65,2021.0,6,Lao PDR,Dengue,0.0,down,,
+66,2021.0,7,Lao PDR,Dengue,0.0,down,,
+67,2021.0,8,Lao PDR,Dengue,0.0,down,,
+68,2021.0,9,Lao PDR,Dengue,0.0,down,,
+69,2021.0,10,Lao PDR,Dengue,0.0,down,,
+70,2021.0,11,Lao PDR,Dengue,0.0,down,,
+71,2021.0,12,Lao PDR,Dengue,0.0,down,,
+72,2022.0,1,Lao PDR,Dengue,0.0,up,,
+73,2022.0,2,Lao PDR,Dengue,0.0,down,,
+74,2022.0,3,Lao PDR,Dengue,0.0,down,,
+75,2022.0,4,Lao PDR,Dengue,0.0,down,,
+76,2022.0,5,Lao PDR,Dengue,0.0,down,,
+77,2022.0,6,Lao PDR,Dengue,0.0,down,,
+78,2022.0,7,Lao PDR,Dengue,0.0,down,,
+79,2022.0,8,Lao PDR,Dengue,0.0,down,,
+80,2022.0,9,Lao PDR,Dengue,0.0,down,,
+81,2022.0,10,Lao PDR,Dengue,0.0,down,,
+82,2022.0,11,Lao PDR,Dengue,0.0,down,,
+83,2022.0,12,Lao PDR,Dengue,0.0,down,,
+84,2015.0,1,Lao PDR,Dengue,0.0,up,,
+85,2015.0,2,Lao PDR,Dengue,0.0,down,,
+86,2015.0,3,Lao PDR,Dengue,0.0,down,,
+87,2015.0,4,Lao PDR,Dengue,202.0,up,"As of 24 April , there were 202 dengue cases and no deaths reported in Lao PDR for 2015",Dengue-20150504.pdf
+88,2015.0,5,Lao PDR,Dengue,59.0,down,"As of 22 May , there were 261 cases of dengue and no deaths reported in Lao PDR for 2015",Dengue-20150602.pdf
+89,2015.0,6,Lao PDR,Dengue,43.0,down,"As of 19 June , there were 304 cases of dengue and no deaths reported in Lao PDR for 2015",Dengue-20150701.pdf
+90,2015.0,7,Lao PDR,Dengue,439.0,up,"As of 31 July , there were 743 cases of dengue and no deaths reported in Lao PDR for 2015",Dengue-20150811.pdf
+91,2015.0,8,Lao PDR,Dengue,314.0,down,"As of 28 August , there were 1057 cases of dengue and no deaths reported in Lao PDR for 2015",Dengue-20150908.pdf
+92,2015.0,9,Lao PDR,Dengue,259.0,down,"As of 25 September , there were 1,316 cases of dengue and no deaths reported in Lao PDR for 2015",Dengue-20151006.pdf
+93,2015.0,10,Lao PDR,Dengue,245.0,down,"Lao PDR As of 23 October , there were 1,561 cases of dengue and no deaths reported in Lao PDR for 2015",Dengue-20151103.pdf
+94,2015.0,11,Lao PDR,Dengue,169.0,down,"As of 20 November , there were 1,730 cases of dengue and no deaths reported in Lao PDR for 2015",Dengue-20151201.pdf
+95,2015.0,12,Lao PDR,Dengue,222.0,up,"As of 25 December , there were 1,952 cases of dengue and no deaths reported in Lao PDR for 2015",Dengue-20160113.pdf
+96,2016.0,1,Australia,Dengue,155.0,up,"Southern Hemisphere Australia As of 31 January 2016 , there were 155 laboratory-confirmed dengue cases in Australia",Dengue-20160223.pdf
+97,2016.0,2,Australia,Dengue,244.0,up,"Australia As of 22 February 2016 , there were 399 laboratory-confirmed dengue cases in Australia",Dengue-20160322.pdf
+98,2016.0,3,Australia,Dengue,0.0,down,,
+99,2016.0,4,Australia,Dengue,0.0,down,,
+100,2016.0,5,Australia,Dengue,645.0,up,"Southern Hemisphere Australia As of 31 May 2016 , there were 1044 laboratory-confirmed dengue cases in Australia",Dengue-20160531.pdf
+101,2016.0,6,Australia,Dengue,151.0,down,"Southern Hemisphere Australia As of 28 June 2016 , there were 1,195 laboratory-confirmed dengue cases in Australia",Dengue-20160628.pdf
+102,2016.0,7,Australia,Dengue,234.0,up,"Southern Hemisphere Australia As of 25 July 2016 , there were 1,429 laboratory-confirmed dengue cases in Australia",Dengue-20160726.pdf
+103,2016.0,8,Australia,Dengue,254.0,up,"Australia As of 31 August 2016 , there were 1,683 laboratory-conﬁrmed dengue cases in Australia",Dengue-20160920.pdf
+104,2016.0,9,Australia,Dengue,77.0,down,"Southern Hemisphere Australia As of 30 September 2016 , there were 1,760 laboratory-confirmed dengue cases in Australia",Dengue-20161004.pdf
+105,2016.0,10,Australia,Dengue,170.0,up,"Southern Hemisphere Australia As of 31 October 2016 , there were 1,930 laboratory-confirmed dengue cases in Australia",Dengue-20161115.pdf
+106,2016.0,11,Australia,Dengue,73.0,down,"Australia As of 30 November 2016 , there were 2,003 laboratory-confirmed dengue cases in Australia",Dengue-20161213.pdf
+107,2016.0,12,Australia,Dengue,103.0,up,"As of 30 December 2016 , there were 2,106 laboratory-confirmed dengue cases in Australia",Dengue-20170104.pdf
+108,2017.0,1,Australia,Dengue,74.0,up,"Australia As of 30 January , there were 74 laboratory-confirmed dengue cases reported in Australia in 2017",Dengue-20170131.pdf
+109,2017.0,2,Australia,Dengue,128.0,up,"Australia As of 28 February 2017 , there were 202 laboratory-confirmed dengue cases reported in Australia in 2017",Dengue-20170228.pdf
+110,2017.0,3,Australia,Dengue,131.0,up,"As of 27 March 2017 , there were 333 laboratory-confirmed dengue cases reported in Australia in 2017",Dengue-20170328.pdf
+111,2017.0,4,Australia,Dengue,78.0,down,"Australia As of 24 April 2017 , there were 411 laboratory-confirmed dengue cases reported in Australia in 2017",Dengue-20170425.pdf
+112,2017.0,5,Australia,Dengue,145.0,up,"Australia As of 31 May 2017 , there were 556 laboratory-confirmed dengue cases reported in Australia in 2017",Dengue-20170620.pdf
+113,2017.0,6,Australia,Dengue,69.0,down,"Australia As of 30 June 2017 , there were 625 laboratory-conﬁrmed dengue cases reported in Australia in 2017",Dengue-20170718.pdf
+114,2017.0,7,Australia,Dengue,70.0,up,"Australia As of 31 July 2017 , there were 695 laboratory-confirmed dengue cases reported in Australia in 2017",Dengue-20170815.pdf
+115,2017.0,8,Australia,Dengue,28.0,down,"Australia As of 29 August , there were 723 laboratory-confirmed dengue cases reported in Australia in 2017",Dengue-20170829.pdf
+116,2017.0,9,Australia,Dengue,29.0,up,"As of 12 September , there were 752 laboratory-confirmed dengue cases reported in Australia in 2017",Dengue-20170912.pdf
+117,2017.0,10,Australia,Dengue,82.0,up,"As of 24 October , there were 834 laboratory-confirmed dengue cases reported in Australia in 2017",Dengue-20171024.pdf
+118,2017.0,11,Australia,Dengue,105.0,up,"Australia As of 30 November , there were 939 cases of dengue virus infection reported in Australia in 2017",Dengue-20171205.pdf
+119,2017.0,12,Australia,Dengue,91.0,down,"As of 30 December , there were 1,030 cases of dengue virus infection reported in Australia in 2017",Dengue-20180102.pdf
+120,2018.0,1,Australia,Dengue,93.0,up,"Australia As of 13 January 2018 , there were 93 cases of dengue virus infection reported in Australia",Dengue-20180213.pdf
+121,2018.0,2,Australia,Dengue,24.0,down,"Australia As of 26 February 2018 , there were 117 cases of dengue virus infection reported in Australia",Dengue-20180227.pdf
+122,2018.0,3,Australia,Dengue,45.0,up,"Australia As of 28 March 2018 , there were 162 cases of dengue virus infection reported in Australia",Dengue-20180329.pdf
+123,2018.0,4,Australia,Dengue,50.0,up,"Australia As of 26 April 2018 , there were 212 cases of dengue virus infection reported in Australia",Dengue-20180426.pdf
+124,2018.0,5,Australia,Dengue,67.0,up,"Australia As of 24 May 2018 , there were 279 cases of dengue virus infection reported in Australia",Dengue-20180524.pdf
+125,2018.0,6,Australia,Dengue,64.0,down,"Australia As of 21 June 2018 , there were a cumulative total of 343 dengue cases reported in Australia , with five in the month of June",Dengue-20180621.pdf
+126,2018.0,7,Australia,Dengue,72.0,up,"Australia As of 19 July 2018 , there were a cumulative total of 415 dengue cases reported in Australia , with 48 cases in the month of June",Dengue-20180719.pdf
+127,2018.0,8,Australia,Dengue,77.0,up,"Australia As of 28 August 2018 , a total of 492 dengue cases have been reported since the beginning of this year in Australia , with 12 cases in August",Dengue-20180830.pdf
+128,2018.0,9,Australia,Dengue,49.0,down,"Australia As of 25 September 2018 , a total of 541 dengue cases have been reported since the beginning of this year in Australia",Dengue-20180927.pdf
+129,2018.0,10,Australia,Dengue,56.0,up,"Australia As of 23 October 2018 , a total of 597 dengue cases have been reported since the beginning of this year in Australia",Dengue-20181025.pdf
+130,2018.0,11,Australia,Dengue,76.0,up,"Australia As of 20 November 2018 , a total of 673 dengue cases have been reported since the beginning of this year in Australia",Dengue-20181122.pdf
+131,2018.0,12,Australia,Dengue,110.0,up,"Australia As of 19 December 2018 , a total of 783 dengue cases have been reported since the beginning of this year in Australia",Dengue-20181220.pdf
+132,2019.0,1,Australia,Dengue,59.0,up,"Australia As of 29 January 2019 , a total of 59 dengue cases have been reported since the beginning of this year in Australia",Dengue-20190131.pdf
+133,2019.0,2,Australia,Dengue,96.0,up,"Australia As of 27 February 2019 , a total of 155 dengue cases have been reported since the beginning of 2019 in Australia",Dengue-20190228.pdf
+134,2019.0,3,Australia,Dengue,115.0,up,"Australia As of 27 March 2019 , a total of 270 dengue cases have been reported since the beginning of 2019 in Australia",Dengue-20190328.pdf
+135,2019.0,4,Australia,Dengue,101.0,down,"Australia As of 24 April 2019 , a total of 371 dengue cases have been reported since the beginning of 2019 in Australia",Dengue-20190425.pdf
+136,2019.0,5,Australia,Dengue,90.0,down,"Australia As of 26 May 2019 , a total of 461 dengue cases have been reported since the beginning of 2019 in Australia",Dengue-20190522.pdf
+137,2019.0,6,Australia,Dengue,108.0,up,"Australia As of 5 June 2019 , a total of 569 dengue cases have been reported since the beginning of 2019 in Australia",Dengue-20190606.pdf
+138,2019.0,7,Australia,Dengue,0.0,down,,
+139,2019.0,8,Australia,Dengue,0.0,down,,
+140,2019.0,9,Australia,Dengue,0.0,down,,
+141,2019.0,10,Australia,Dengue,581.0,up,"Australia As of 24 October 2019 , a total of 1150 dengue cases have been reported since the beginning of 2019 in Australia , which is lower compared to the same period in 2017 and 2018",Dengue-20191023.pdf
+142,2019.0,11,Australia,Dengue,175.0,down,"Australia As of 30 November 2019 , a total of 1,325 dengue cases have been reported since the beginning of 2019 in Australia , which is lower compared to the same period in 2017 and 2018",Dengue-20191205.pdf
+143,2019.0,12,Australia,Dengue,94.0,down,"Australia As of 18 December 2019 , a total of 1,419 dengue cases have been reported since the beginning of 2019 in Australia , which is higher compared to the same period in 2017 and 2018",Dengue-20200102.pdf
+144,2020.0,1,Australia,Dengue,29.0,up,"Australia As of 28 January 2020 , a total of 29 dengue cases have been reported since the beginning of 2020 in Australia , which is lower compared to the same period in 2018 and 2019",Dengue-20200130.pdf
+145,2020.0,2,Australia,Dengue,100.0,up,In January and February 2020 there was a total of 129 dengue cases reported in Australia compared to one case reported during the same period in 2021,Dengue-20210311.pdf
+146,2020.0,3,Australia,Dengue,83.0,down,From January to March 2020 there have been a total of 212 dengue cases reported in Australia compared to one case reported during the same period in 2021,Dengue-20210325.pdf
+147,2020.0,4,Australia,Dengue,0.0,down,,
+148,2020.0,5,Australia,Dengue,7.0,up,"In contrast , there were 219 dengue cases reported in Australia in January to May 2020 indicating a marked reduction in the number of cases",Dengue-20210506.pdf
+149,2020.0,6,Australia,Dengue,1.0,down,"In contrast , there were 220 dengue cases reported in Australia in January to June 2020 indicating a marked reduction in the number of cases",Dengue-20210603.pdf
+150,2020.0,7,Australia,Dengue,1.0,down,"In contrast , there were 221 dengue cases reported in Australia in January to July 2020 indicating a marked reduction in the number of cases",Dengue-20210812.pdf
+151,2020.0,8,Australia,Dengue,0.0,down,"In contrast , there were 221 dengue cases reported in Australia in January to August 2020 indicating a marked reduction in the number of cases",Dengue-20210909.pdf
+152,2020.0,9,Australia,Dengue,0.0,down,"In contrast , there were 221 dengue cases reported in Australia in January to September 2020 indicating a marked reduction in the number of cases",Dengue-20211007.pdf
+153,2020.0,10,Australia,Dengue,4.0,up,"In contrast , there were 225 dengue cases reported in Australia from 1 January to 25 October 2020 indicating a marked reduction in the number of cases",Dengue-20211104.pdf
+154,2020.0,11,Australia,Dengue,19.0,up,"In contrast , there were 244 dengue cases reported in Australia from 1 January to 8 November 2020 indicating a marked reduction in the number of cases",Dengue-20211202.pdf
+155,2020.0,12,Australia,Dengue,-22.0,down,"In contrast , there were 222 dengue cases reported in Australia from January to December in 2020 indicating a marked reduction in the number of cases",Dengue-20220127.pdf
+156,2021.0,1,Australia,Dengue,1.0,up,"In contrast , there was one dengue case reported in Australia from 1 January to 31 January in 2021 , continuing a marked reduction in the number of cases since 2021",Dengue-20220210.pdf
+157,2021.0,2,Australia,Dengue,0.0,down,"Similarly , there was one dengue case reported in Australia from 4 January to 14 February in 2021 , continuing low number of cases since 2021",Dengue-20220224.pdf
+158,2021.0,3,Australia,Dengue,0.0,down,,
+159,2021.0,4,Australia,Dengue,217.0,up,"In contrast , there were 218 dengue cases reported in Australia in January to April 2020",Dengue-20210408.pdf
+160,2021.0,5,Australia,Dengue,0.0,down,,
+161,2021.0,6,Australia,Dengue,0.0,down,,
+162,2021.0,7,Australia,Dengue,0.0,down,,
+163,2021.0,8,Australia,Dengue,0.0,down,,
+164,2021.0,9,Australia,Dengue,0.0,down,,
+165,2021.0,10,Australia,Dengue,0.0,down,,
+166,2021.0,11,Australia,Dengue,0.0,down,,
+167,2021.0,12,Australia,Dengue,0.0,down,"Australia In December , there were no new dengue cases reported",Dengue-20210114.pdf
+168,2022.0,1,Australia,Dengue,2.0,up,Australia As of 30 January 2022 there were two dengue cases reported,Dengue-20220210.pdf
+169,2022.0,2,Australia,Dengue,1.0,down,Australia As of 13 Feburary 2022 there were three dengue cases reported since 1 January 2022,Dengue-20220224.pdf
+170,2022.0,3,Australia,Dengue,0.0,down,,
+171,2022.0,4,Australia,Dengue,0.0,down,,
+172,2022.0,5,Australia,Dengue,0.0,down,,
+173,2022.0,6,Australia,Dengue,0.0,down,,
+174,2022.0,7,Australia,Dengue,0.0,down,,
+175,2022.0,8,Australia,Dengue,0.0,down,,
+176,2022.0,9,Australia,Dengue,0.0,down,,
+177,2022.0,10,Australia,Dengue,0.0,down,,
+178,2022.0,11,Australia,Dengue,0.0,down,,
+179,2022.0,12,Australia,Dengue,0.0,down,,
+180,2015.0,1,Australia,Dengue,0.0,up,,
+181,2015.0,2,Australia,Dengue,0.0,down,,
+182,2015.0,3,Australia,Dengue,668.0,up,"As of 31 March , 668 laboratory-confirmed dengue cases have been reported in Australia for 2015",Dengue-20150422.pdf
+183,2015.0,4,Australia,Dengue,163.0,down,"Southern Hemisphere Australia As of 30 April , 831 laboratory-confirmed dengue cases have been reported in Australia for 2015",Dengue-20150504.pdf
+184,2015.0,5,Australia,Dengue,169.0,up,"Southern Hemisphere Australia As of 31 May , 1,000 laboratory-confirmed dengue cases have been reported in Australia for 2015",Dengue-20150617.pdf
+185,2015.0,6,Australia,Dengue,89.0,down,"Southern Hemisphere Australia As of 30 June , 1,089 laboratory-confirmed dengue cases have been reported in Australia for 2015",Dengue-20150715.pdf
+186,2015.0,7,Australia,Dengue,112.0,up,"Southern Hemisphere Australia As of 31 July , 1,201 laboratory-confirmed dengue cases have been reported in Australia for 2015",Dengue-20150825.pdf
+187,2015.0,8,Australia,Dengue,104.0,down,"Southern Hemisphere Australia As of 31 August , there were 1,305 laboratory-confirmed dengue cases in Australia for 2015",Dengue-20150922.pdf
+188,2015.0,9,Australia,Dengue,88.0,down,"Southern Hemisphere Australia As of 30 September , there were 1,393 laboratory-confirmed dengue cases in Australia for 2015",Dengue-20151020.pdf
+189,2015.0,10,Australia,Dengue,109.0,up,"Southern Hemisphere Australia As of 31 October , there were 1,502 laboratory-confirmed dengue cases in Australia for 2015",Dengue-20151201.pdf
+190,2015.0,11,Australia,Dengue,93.0,down,"Southern Hemisphere Australia As of 30 November 2015 , there were 1,595 laboratory-confirmed dengue cases in Australia",Dengue-20151229.pdf
+191,2015.0,12,Australia,Dengue,87.0,down,"Southern Hemisphere Australia As of 31 December 2015 , there were 1,682 laboratory-confirmed dengue cases in Australia",Dengue-20160126.pdf
+192,2016.0,1,Malaysia,Dengue,0.0,up,,
+193,2016.0,2,Malaysia,Dengue,0.0,down,,
+194,2016.0,3,Malaysia,Dengue,2247.0,up,"Malaysia For the week from 13 to 19 March , the number of dengue cases decreased to 2,247 , from 2,556 cases reported in the week prior",Dengue-20160322.pdf
+195,2016.0,4,Malaysia,Dengue,2130.0,down,"Malaysia For the week from 27 March to 2 April , the number of dengue cases decreased to 2,130 from 2,135 cases reported in the week prior",Dengue-20160405.pdf
+196,2016.0,5,Malaysia,Dengue,0.0,down,,
+197,2016.0,6,Malaysia,Dengue,0.0,down,,
+198,2016.0,7,Malaysia,Dengue,0.0,down,,
+199,2016.0,8,Malaysia,Dengue,2249.0,up,"Malaysia In week 34 , the number of dengue cases was 2,249 , an increase from 2,190 cases ( an increase by 2.7 % ) reported in the previous week",Dengue-20160906.pdf
+200,2016.0,9,Malaysia,Dengue,2095.0,down,"Malaysia In week 36 , the number of dengue cases was 2,095 , a decrease from 2,143 cases ( an decrease by 2.2 % ) reported in the previous week",Dengue-20160920.pdf
+201,2016.0,10,Malaysia,Dengue,1462.0,down,"Malaysia In week 42 , the number of dengue cases was 1,462 , a decrease from 1,654 cases ( a decrease by 11.6 % ) reported in the previous week",Dengue-20161102.pdf
+202,2016.0,11,Malaysia,Dengue,1328.0,down,"Malaysia In week 48 , the number of reported dengue cases was 1,328 , an increase from 1,257 cases ( an increase of 5.6 % ) reported in the previous week",Dengue-20161213.pdf
+203,2016.0,12,Malaysia,Dengue,0.0,down,,
+204,2017.0,1,Malaysia,Dengue,0.0,up,,
+205,2017.0,2,Malaysia,Dengue,0.0,down,,
+206,2017.0,3,Malaysia,Dengue,0.0,down,,
+207,2017.0,4,Malaysia,Dengue,0.0,down,,
+208,2017.0,5,Malaysia,Dengue,0.0,down,,
+209,2017.0,6,Malaysia,Dengue,2173.0,up,"Malaysia In week 25 of 2017 ( from 18 June to 24 June 2017 ) , 2,173 dengue cases were reported with 3 deaths",Dengue-20170704.pdf
+210,2017.0,7,Malaysia,Dengue,0.0,down,,
+211,2017.0,8,Malaysia,Dengue,0.0,down,,
+212,2017.0,9,Malaysia,Dengue,0.0,down,,
+213,2017.0,10,Malaysia,Dengue,0.0,down,,
+214,2017.0,11,Malaysia,Dengue,0.0,down,,
+215,2017.0,12,Malaysia,Dengue,0.0,down,,
+216,2018.0,1,Malaysia,Dengue,0.0,up,,
+217,2018.0,2,Malaysia,Dengue,1200.0,up,"Malaysia In week 6 , 2018 there have been 1,200 dengue cases reported and 2 deaths",Dengue-20180213.pdf
+218,2018.0,3,Malaysia,Dengue,1079.0,down,"Malaysia In week 11 , 2018 , there were 1,079 dengue cases and two deaths reported",Dengue-20180329.pdf
+219,2018.0,4,Malaysia,Dengue,1037.0,down,"Malaysia In week 18 , 2018 , there were 1,037 dengue cases and one death reported",Dengue-20180510.pdf
+220,2018.0,5,Malaysia,Dengue,1548.0,up,"Malaysia In week 21 , 2018 , there were 1,548 dengue cases , with a cumulative total of 24,095 cases reported in 2018",Dengue-20180607.pdf
+221,2018.0,6,Malaysia,Dengue,2053.0,up,"Malaysia In week 26 , 2,053 cases with three deaths were reported , recording a cumulative total of 32,435 cases and 53 deaths during the first half of 2018",Dengue-20180705.pdf
+222,2018.0,7,Malaysia,Dengue,1872.0,down,"Malaysia In week 28 , a total of 1,872 cases with three deaths were reported , which is a decreased number compared to the previous week",Dengue-20180719.pdf
+223,2018.0,8,Malaysia,Dengue,1931.0,up,"Malaysia During week 33 , a total of 1 931 dengue cases including three deaths were reported , bringing the cumulative number of cases in 2018 as of 18 August to 46 544 with 76 deaths",Dengue-20180830.pdf
+224,2018.0,9,Malaysia,Dengue,0.0,down,,
+225,2018.0,10,Malaysia,Dengue,0.0,down,,
+226,2018.0,11,Malaysia,Dengue,0.0,down,,
+227,2018.0,12,Malaysia,Dengue,5003.0,up,"Malaysia During week 51 and 52 , a total of 5,003 dengue cases including twelve deaths were reported , bringing the cumulative number of cases in 2018 to 80,615 with 147 deaths , as of 29 December",Dengue-20190103.pdf
+228,2019.0,1,Malaysia,Dengue,3127.0,up,"Malaysia During the week 4 , 2019 , a total of 3,127 dengue cases including 19 death were reported , which is an increase of 7,836 cases ( 177.7 % ) compared to 4,410 cases during the same period of 2018",Dengue-20190131.pdf
+229,2019.0,2,Malaysia,Dengue,3059.0,down,"Malaysia During week 7 , 2019 , a total of 3,059 dengue cases including 5 deaths were reported , which is an increased number compared to the previous week",Dengue-20190228.pdf
+230,2019.0,3,Malaysia,Dengue,2063.0,down,"Malaysia During week 13 , 2019 , a total of 2063 dengue cases with no deaths were reported , bringing the cumulative number to 36 285 cases and 59 deaths , as of 30 March 2019",Dengue-20190411.pdf
+231,2019.0,4,Malaysia,Dengue,1622.0,down,"Malaysia During week 17 , 2019 , a total of 1,622 dengue cases with two deaths were reported , decreased compared to the previous week , bringing the cumulative number to 43,065 cases and 67 deaths , as of 27 April 2019",Dengue-20190509.pdf
+232,2019.0,5,Malaysia,Dengue,1858.0,up,"Malaysia During week 19 , 2019 , a total of 1,858 dengue cases including 3 deaths were reported in Malaysia , an increase of 10.3 % compared to the previous week , bringing the cumulative number as of 11 May 2019 to 46,607 cases including 74 deaths",Dengue-20190522.pdf
+233,2019.0,6,Malaysia,Dengue,2806.0,up,"Malaysia During week 26 , 2019 , a total of 2,806 dengue cases including one deaths were reported in Malaysia , bringing the cumulative number as of 29 June 2019 to 62,421 cases including 93 deaths",Dengue-20190704.pdf
+234,2019.0,7,Malaysia,Dengue,0.0,down,,
+235,2019.0,8,Malaysia,Dengue,2741.0,up,"Malaysia During week 33 , 2019 , a total of 2,741 dengue cases including 1 death were reported in Malaysia",Dengue-20190829.pdf
+236,2019.0,9,Malaysia,Dengue,2529.0,down,"Malaysia During week 38 , 2019 , a total of 2,529 dengue cases including 1 death were reported in Malaysia",Dengue-20190926.pdf
+237,2019.0,10,Malaysia,Dengue,2012.0,down,"Malaysia During week 41 2019 , a total of 2,012 dengue cases including 3 deaths were reported in Malaysia",Dengue-20191023.pdf
+238,2019.0,11,Malaysia,Dengue,2400.0,up,"Malaysia During week 46 , 2019 , a total of 2,400 dengue cases without deaths were reported in Malaysia",Dengue-20191121.pdf
+239,2019.0,12,Malaysia,Dengue,2630.0,up,"Malaysia During week 51 , 2019 , a total of 2,630 dengue cases with two deaths were reported in Malaysia",Dengue-20200102.pdf
+240,2020.0,1,Malaysia,Dengue,3387.0,up,"Malaysia During week 3 , 2020 , a total of 3,387 dengue cases with four deaths were reported in Malaysia",Dengue-20200130.pdf
+241,2020.0,2,Malaysia,Dengue,2604.0,down,"Malaysia During week 8 , 2020 , a total of 2,604 dengue cases including nine deaths were reported in Malaysia",Dengue-20200227.pdf
+242,2020.0,3,Malaysia,Dengue,1874.0,down,"Malaysia During week 12 , 2020 , a total of 1,874 dengue cases including two deaths were reported in Malaysia",Dengue-20200326.pdf
+243,2020.0,4,Malaysia,Dengue,1172.0,down,"Malaysia During week 16 , 2020 , a total of 1,172 dengue cases have been reported which is an increase of 4.35 % compared to the previous week",Dengue-20200423.pdf
+244,2020.0,5,Malaysia,Dengue,1494.0,up,"Malaysia During week 20 , 2020 , a total of 1,494 dengue cases have been reported which is an increase of 5.6 % compared to previous week",Dengue-20200521.pdf
+245,2020.0,6,Malaysia,Dengue,2120.0,up,"Malaysia During week 26 , 2020 , a total of 2,120 dengue cases have been reported , bringing the cumulative number of reported cases to 54,391 , as of 27 June 2020",Dengue-20200702.pdf
+246,2020.0,7,Malaysia,Dengue,1898.0,down,"Malaysia During week 30 , 2020 , a total of 1,898 dengue cases have been reported , bringing the cumulative number of reported cases to 62,615 as of 25 July 2020",Dengue-20200730.pdf
+247,2020.0,8,Malaysia,Dengue,1718.0,down,"Malaysia During week 34 , 2020 , a total of 1,718 dengue cases have been reported , bringing the cumulative number of reported cases to 69,815 as of 22 August 2020",Dengue-20200827.pdf
+248,2020.0,9,Malaysia,Dengue,1361.0,down,"Malaysia During week 38 , 2020 , a total of 1,361 dengue cases have been reported , bringing the cumulative number of reported cases to 75,804 as of 19 September 2020",Dengue-20200924.pdf
+249,2020.0,10,Malaysia,Dengue,1180.0,down,"Malaysia During week 42 , 2020 , a total of 1,180 dengue cases have been reported , bringing the cumulative number of reported cases to 80,590 as of 17 October 2020",Dengue-20201022.pdf
+250,2020.0,11,Malaysia,Dengue,0.0,down,,
+251,2020.0,12,Malaysia,Dengue,0.0,down,,
+252,2021.0,1,Malaysia,Dengue,586.0,up,"Malaysia During week 4 , 2021 , a total of 586 dengue cases have been reported , bringing the cumulative number of reported cases to 2,722 as of 23 January 2021",Dengue-20210211.pdf
+253,2021.0,2,Malaysia,Dengue,548.0,down,"Malaysia During week 6 , 2021 , a total of 548 dengue cases have been reported , bringing the cumulative number of reported cases to 3,877 as of 13 February 2021",Dengue-20210225.pdf
+254,2021.0,3,Malaysia,Dengue,482.0,down,"Malaysia During week 11 , 2021 , a total of 482 dengue cases have been reported , bringing the cumulative number of reported cases to 6,560 as of 20 March 2021",Dengue-20210325.pdf
+255,2021.0,4,Malaysia,Dengue,456.0,down,"Malaysia During week 15 , 2021 , a total of 456 dengue cases have been reported , bringing the cumulative number of reported cases to 8,313 as of 17 April 2021",Dengue-20210422.pdf
+256,2021.0,5,Malaysia,Dengue,503.0,up,"Malaysia During epidemiological week 21 , 2021 , a total of 503 dengue cases with no deaths were reported",Dengue-20210603.pdf
+257,2021.0,6,Malaysia,Dengue,585.0,up,"Malaysia During epidemiological week 26 , 2021 , a total of 585 dengue cases and no deaths were reported",Dengue-20210715.pdf
+258,2021.0,7,Malaysia,Dengue,492.0,down,"Malaysia During epidemiological week 30 , 2021 , a total of 492 dengue cases and one death were reported",Dengue-20210812.pdf
+259,2021.0,8,Malaysia,Dengue,356.0,down,"Malaysia During epidemiological week 34 , 2021 , a total of 356 dengue cases and no deaths were reported",Dengue-20210909.pdf
+260,2021.0,9,Malaysia,Dengue,435.0,up,"Malaysia During epidemiological week 38 , 2021 , a total of 435 dengue cases and one death was reported",Dengue-20211007.pdf
+261,2021.0,10,Malaysia,Dengue,461.0,up,"Malaysia During epidemiological week 42 of 2021 , a total of 461 dengue cases and one death was reported",Dengue-20211104.pdf
+262,2021.0,11,Malaysia,Dengue,490.0,up,"Malaysia During epidemiological week 47 of 2021 , a total of 490 dengue cases and no death were reported",Dengue-20211202.pdf
+263,2021.0,12,Malaysia,Dengue,571.0,up,"Malaysia During epidemiological week 52 of 2021 , a total of 571 dengue cases were reported",Dengue-20220113.pdf
+264,2022.0,1,Malaysia,Dengue,625.0,up,"Malaysia During epidemiological week 5 of 2022 , 625 dengue cases were reported for a total of 3,573 cumulative reported dengue cases for 2022",Dengue-20220210.pdf
+265,2022.0,2,Malaysia,Dengue,671.0,up,"Malaysia During epidemiological week 9 of 2022 , 671 dengue cases were reported for a total of 6,229 cumulative reported dengue cases for 2022",Dengue-20220310.pdf
+266,2022.0,3,Malaysia,Dengue,592.0,down,"Malaysia During epidemiological week 11 of 2022 , 592 dengue cases were reported for a total of 7,364 cumulative reported dengue cases for 2022",Dengue-20220324.pdf
+267,2022.0,4,Malaysia,Dengue,0.0,down,,
+268,2022.0,5,Malaysia,Dengue,0.0,down,,
+269,2022.0,6,Malaysia,Dengue,0.0,down,,
+270,2022.0,7,Malaysia,Dengue,0.0,down,,
+271,2022.0,8,Malaysia,Dengue,0.0,down,,
+272,2022.0,9,Malaysia,Dengue,0.0,down,,
+273,2022.0,10,Malaysia,Dengue,0.0,down,,
+274,2022.0,11,Malaysia,Dengue,0.0,down,,
+275,2022.0,12,Malaysia,Dengue,0.0,down,,
+276,2015.0,1,Malaysia,Dengue,0.0,up,,
+277,2015.0,2,Malaysia,Dengue,0.0,down,,
+278,2015.0,3,Malaysia,Dengue,0.0,down,,
+279,2015.0,4,Malaysia,Dengue,38517.0,up,"As of 25 April 2015 , there were 38,517 cases of dengue reported in Malaysia for 2015",Dengue-20150504.pdf
+280,2015.0,5,Malaysia,Dengue,8595.0,down,"As of 30 May 2015 , there were 47,112 cases of dengue reported in Malaysia for 2015",Dengue-20150617.pdf
+281,2015.0,6,Malaysia,Dengue,6711.0,down,"As of 20 June 2015 , there were 53,823 cases of dengue with 158 deaths reported in Malaysia for 2015",Dengue-20150701.pdf
+282,2015.0,7,Malaysia,Dengue,14121.0,up,"As of 25 July 2015 , there were 67,944 cases of dengue with 185 deaths reported in Malaysia for 2015",Dengue-20150729.pdf
+283,2015.0,8,Malaysia,Dengue,12710.0,down,"As of 29 August 2015 , there were 80,654 cases of dengue with 219 deaths reported in Malaysia for 2015",Dengue-20150908.pdf
+284,2015.0,9,Malaysia,Dengue,9090.0,down,"As of 26 September , there were 89,744 cases of dengue with 244 deaths reported in Malaysia for 2015",Dengue-20151006.pdf
+285,2015.0,10,Malaysia,Dengue,8764.0,down,"Malaysia As of 24 October , there were 98,508 cases of dengue with 267 deaths reported in Malaysia for 2015",Dengue-20151103.pdf
+286,2015.0,11,Malaysia,Dengue,8571.0,down,"As of 21 November , there were 107,079 cases of dengue with 293 deaths reported in Malaysia for 2015",Dengue-20151201.pdf
+287,2015.0,12,Malaysia,Dengue,4206.0,down,"As of 5 December , there were 111,285 cases of dengue with 301 deaths reported in Malaysia for 2015",Dengue-20151229.pdf
+288,2016.0,1,Philippines,Dengue,0.0,up,,
+289,2016.0,2,Philippines,Dengue,0.0,down,,
+290,2016.0,3,Philippines,Dengue,0.0,down,,
+291,2016.0,4,Philippines,Dengue,0.0,down,,
+292,2016.0,5,Philippines,Dengue,0.0,down,,
+293,2016.0,6,Philippines,Dengue,0.0,down,,
+294,2016.0,7,Philippines,Dengue,0.0,down,,
+295,2016.0,8,Philippines,Dengue,0.0,down,,
+296,2016.0,9,Philippines,Dengue,0.0,down,,
+297,2016.0,10,Philippines,Dengue,0.0,down,,
+298,2016.0,11,Philippines,Dengue,0.0,down,,
+299,2016.0,12,Philippines,Dengue,211108.0,up,"Philippines As of 31 December 2016 , there were 211,108 suspected cases of dengue reported in 2016 , including 1019 deaths",Dengue-20170411.pdf
+300,2017.0,1,Philippines,Dengue,0.0,up,,
+301,2017.0,2,Philippines,Dengue,0.0,down,,
+302,2017.0,3,Philippines,Dengue,0.0,down,,
+303,2017.0,4,Philippines,Dengue,26433.0,up,"Philippines As of 1 April 2017 , there were 26,433 suspected cases of dengue reported from January 1 2017",Dengue-20170425.pdf
+304,2017.0,5,Philippines,Dengue,7327.0,down,"Philippines A total of 33,760 dengue cases were reported nationwide from January 1 to May 6 , 2017",Dengue-20170606.pdf
+305,2017.0,6,Philippines,Dengue,0.0,down,,
+306,2017.0,7,Philippines,Dengue,10010.0,up,"Philippines A total of 43,770 dengue cases were reported nationwide from January 1 to July 1 , 2017",Dengue-20170801.pdf
+307,2017.0,8,Philippines,Dengue,23831.0,up,"Philippines A total of 67,601 dengue cases were reported nationwide from January 1 to August 12 , 2017",Dengue-20170912.pdf
+308,2017.0,9,Philippines,Dengue,29686.0,up,"Philippines A total of 97,287 dengue cases including 526 deaths were reported nationwide from 1 January to 30 September , 2017 .",Dengue-20171107.pdf
+309,2017.0,10,Philippines,Dengue,0.0,down,,
+310,2017.0,11,Philippines,Dengue,0.0,down,,
+311,2017.0,12,Philippines,Dengue,0.0,down,,
+312,2018.0,1,Philippines,Dengue,0.0,up,,
+313,2018.0,2,Philippines,Dengue,10980.0,up,"Philippines A total of 10,980 dengue cases were reported nationwide from 1 January to 10 February , 2018",Dengue-20180227.pdf
+314,2018.0,3,Philippines,Dengue,0.0,down,,
+315,2018.0,4,Philippines,Dengue,0.0,down,,
+316,2018.0,5,Philippines,Dengue,0.0,down,,
+317,2018.0,6,Philippines,Dengue,0.0,down,,
+318,2018.0,7,Philippines,Dengue,0.0,down,,
+319,2018.0,8,Philippines,Dengue,0.0,down,,
+320,2018.0,9,Philippines,Dengue,0.0,down,,
+321,2018.0,10,Philippines,Dengue,0.0,down,,
+322,2018.0,11,Philippines,Dengue,0.0,down,,
+323,2018.0,12,Philippines,Dengue,0.0,down,,
+324,2019.0,1,Philippines,Dengue,0.0,up,,
+325,2019.0,2,Philippines,Dengue,0.0,down,,
+326,2019.0,3,Philippines,Dengue,4068.0,up,"Philippines During week 11 , 2019 , a total of 4,068 dengue cases have been reported nationwide",Dengue-20190328.pdf
+327,2019.0,4,Philippines,Dengue,786.0,down,"Philippines During week 16 , 2019 , a total of 786 dengue cases have been reported nationwide",Dengue-20190509.pdf
+328,2019.0,5,Philippines,Dengue,1292.0,up,"Philippines During week 20 , 2019 , a total of 1,292 dengue cases have been reported nationwide",Dengue-20190606.pdf
+329,2019.0,6,Philippines,Dengue,2781.0,up,"Philippines During week 24 , 2019 , a total of 2,781 dengue cases were reported nationwide",Dengue-20190704.pdf
+330,2019.0,7,Philippines,Dengue,8295.0,up,"Philippines During week 28 , 2019 , a total of 8,295 dengue cases were reported nationwide",Dengue-20190801.pdf
+331,2019.0,8,Philippines,Dengue,13192.0,up,"Philippines During week 34 , 2019 , a total of 13,192 dengue cases were reported nationwide",Dengue-20190912.pdf
+332,2019.0,9,Philippines,Dengue,8856.0,down,"Philippines During week 38 , 2019 , a total of 8,856 dengue cases were reported nationwide",Dengue-20191010.pdf
+333,2019.0,10,Philippines,Dengue,5927.0,down,"Philippines During week 42 , 2019 , a total of 5,927 dengue cases were reported nationwide",Dengue-20191107.pdf
+334,2019.0,11,Philippines,Dengue,4143.0,down,"Philippines During week 46 , 2019 , a total of 4,143 dengue cases were reported nationwide",Dengue-20191205.pdf
+335,2019.0,12,Philippines,Dengue,2410.0,down,"Philippines During week 51 , 2019 , a total of 2,410 dengue cases were reported nationwide",Dengue-20200116.pdf
+336,2020.0,1,Philippines,Dengue,3386.0,up,"Philippines During week 4 , 2020 , a total of 3,386 dengue cases including 11 deaths ( CFR 0.3 % ) were reported nationwide",Dengue-20200213.pdf
+337,2020.0,2,Philippines,Dengue,2010.0,down,"Philippines During week 7 , 2020 , a total of 2,010 dengue cases including 3 deaths ( CFR 0.15 % ) were reported nationwide",Dengue-20200312.pdf
+338,2020.0,3,Philippines,Dengue,1785.0,down,"Philippines During week 9 , 2020 , a total of 1,785 dengue cases including 3 deaths ( CFR 0.2 % ) were reported nationwide",Dengue-20200326.pdf
+339,2020.0,4,Philippines,Dengue,226.0,down,"0500100015002000250030003500400013579111315171921232527293133353739414345474951Number of casesEpi Week 20132014201520162017201820192020Philippines During week 16 , 2020 , a total of 226 dengue cases and 4 deaths were reported in the Philippines",Dengue-20200507.pdf
+340,2020.0,5,Philippines,Dengue,261.0,up,"0500100015002000250030003500400013579111315171921232527293133353739414345474951Number of casesEpi Week 20132014201520162017201820192020Philippines During week 20 2020 , a total of 261 dengue cases and 0 death were reported in the Philippines",Dengue-20200604.pdf
+341,2020.0,6,Philippines,Dengue,273.0,up,"Philippines During week 24 2020 ( June 7 to 13 2020 ) , a total of 273 dengue cases with two deaths were reported",Dengue-20200702.pdf
+342,2020.0,7,Philippines,Dengue,446.0,up,"Philippines During week 29 , 12 to 18 July 2020 , a total of 446 dengue cases with two deaths were reported",Dengue-20200813.pdf
+343,2020.0,8,Philippines,Dengue,583.0,up,"Philippines During week 34 , 16 to 22 August 2020 , a total of 583 dengue cases with two deaths were reported",Dengue-20200910.pdf
+344,2020.0,9,Philippines,Dengue,646.0,up,"Philippines During week 38 , 13 to 19 September 2020 , a total of 646 dengue cases with one deaths was reported",Dengue-20201008.pdf
+345,2020.0,10,Philippines,Dengue,430.0,down,"Philippines During week 40 , 27 September to 03 October 2020 , a total of 430 dengue cases with two deaths were reported",Dengue-20201022.pdf
+346,2020.0,11,Philippines,Dengue,0.0,down,,
+347,2020.0,12,Philippines,Dengue,195.0,up,"Philippines During week 52 , 2020 , 195 dengue cases were reported , with one additional death",Dengue-20210114.pdf
+348,2021.0,1,Philippines,Dengue,252.0,up,"Philippines In morbidity week 3 , 17 January to 23 January 2021 , 252 dengue cases were reported in the Philippines",Dengue-20210211.pdf
+349,2021.0,2,Philippines,Dengue,218.0,down,"Philippines In week 8 of 2021 , 218 dengue cases were reported in the Philippines",Dengue-20210325.pdf
+350,2021.0,3,Philippines,Dengue,114.0,down,"Philippines For Morbidity Week 12 , from 21 March to 27 March 2021 , a total of one hundred fourteen ( 114 ) dengue cases with one ( 1 ) reported mortality",Dengue-20210506.pdf
+351,2021.0,4,Philippines,Dengue,122.0,up,"Philippines For Morbidity Week 15 , from 11 April to 17 April 2021 , a total of one hundred twenty-two ( 122 ) dengue cases with no reported mortalities",Dengue-20210603.pdf
+352,2021.0,5,Philippines,Dengue,0.0,down,,
+353,2021.0,6,Philippines,Dengue,148.0,up,"Philippines In epidemiological week 25 , from 20 to 26 June 2021 , a total of one hundred forty-eight ( 148 ) dengue cases have been reported with one ( 1 ) reported mortality",Dengue-20210715.pdf
+354,2021.0,7,Philippines,Dengue,186.0,up,"Philippines In epidemiological week 26 , from 27 June to 03 Jul 2021 , there was a total of one hundred eighty-six ( 186 ) dengue cases with one ( 1 ) reported mortality",Dengue-20210729.pdf
+355,2021.0,8,Philippines,Dengue,0.0,down,,
+356,2021.0,9,Philippines,Dengue,0.0,down,,
+357,2021.0,10,Philippines,Dengue,264.0,up,"Philippines In epidemiological week 42 , from 17 to 23 October 2021 , there was a total of two hundred sixty-four ( 264 ) dengue cases with two ( 2 ) reported mortality",Dengue-20211118.pdf
+358,2021.0,11,Philippines,Dengue,310.0,up,"Philippines In epidemiological week 45 , from 7 to 13 November 2021 , there was a total of 310 dengue cases with two ( 2 ) reported mortality",Dengue-20211216.pdf
+359,2021.0,12,Philippines,Dengue,0.0,down,,
+360,2022.0,1,Philippines,Dengue,59.0,up,"Philippines During epidemiological week 2 , from 9 to 15 January 2022 , there was a total of 59 dengue cases and one death reported",Dengue-20220210.pdf
+361,2022.0,2,Philippines,Dengue,195.0,up,"Philippines During epidemiological week 7 , from 13 to 19 February 2022 , there was a total of 195 dengue cases and one death reported",Dengue-20220310.pdf
+362,2022.0,3,Philippines,Dengue,218.0,up,"Philippines During epidemiological week 9 , from 27 february to 5 March 2022 , there was a total of 218 dengue cases and no death reported",Dengue-20220324.pdf
+363,2022.0,4,Philippines,Dengue,0.0,down,,
+364,2022.0,5,Philippines,Dengue,0.0,down,,
+365,2022.0,6,Philippines,Dengue,0.0,down,,
+366,2022.0,7,Philippines,Dengue,0.0,down,,
+367,2022.0,8,Philippines,Dengue,0.0,down,,
+368,2022.0,9,Philippines,Dengue,0.0,down,,
+369,2022.0,10,Philippines,Dengue,0.0,down,,
+370,2022.0,11,Philippines,Dengue,0.0,down,,
+371,2022.0,12,Philippines,Dengue,209.0,up,"Philippines In epidemiological week 52 , from 26 to 31 December 2021 , there was a total of 209 dengue cases and no death reported",Dengue-20220127.pdf
+372,2015.0,1,Philippines,Dengue,0.0,up,,
+373,2015.0,2,Philippines,Dengue,0.0,down,,
+374,2015.0,3,Philippines,Dengue,0.0,down,,
+375,2015.0,4,Philippines,Dengue,21962.0,up,"From 1 January to 18 April 2015 , there were 21,962 cases of dengue , including 61 deaths , reported in Philippines",Dengue-20150519.pdf
+376,2015.0,5,Philippines,Dengue,6638.0,down,"From 1 January to 30 May 2015 , there were 28,600 cases of dengue , including 86 deaths , reported in Philippines",Dengue-20150617.pdf
+377,2015.0,6,Philippines,Dengue,3840.0,down,"From 1 January to 23 June 2015 , there were 32,440 cases of dengue , including 105 deaths , reported in Philippines",Dengue-20150715.pdf
+378,2015.0,7,Philippines,Dengue,8153.0,up,"From 1 January to 18 July 2015 , there were 40,593 cases of dengue , including 134 deaths , reported in Philippines",Dengue-20150729.pdf
+379,2015.0,8,Philippines,Dengue,24828.0,up,"From 1 January to 22 August 2015 , there were 65,421 suspected cases of dengue , including 193 deaths , reported in Philippines",Dengue-20150908.pdf
+380,2015.0,9,Philippines,Dengue,13387.0,down,"From 1 January to 5 September 2015 , there were 78,808 suspected cases of dengue , including 233 deaths , reported in Philippines",Dengue-20151006.pdf
+381,2015.0,10,Philippines,Dengue,63419.0,up,"As of 31 October 2015 , there were 142,227 suspected cases of dengue , including 411 deaths , reported in Philippines",Dengue-20151201.pdf
+382,2015.0,11,Philippines,Dengue,27208.0,down,"As of 21 November 2015 , there were 169,435 suspected cases of dengue , including 511 deaths , reported in Philippines",Dengue-20151215.pdf
+383,2015.0,12,Philippines,Dengue,30980.0,up,"Philippines As of 31 December , 2015 , there were 200,415 suspected cases of dengue , including 598 deaths , reported in Philippines",Dengue-20160209.pdf
+384,2016.0,1,Singapore,Dengue,0.0,up,,
+385,2016.0,2,Singapore,Dengue,0.0,down,,
+386,2016.0,3,Singapore,Dengue,0.0,down,,
+387,2016.0,4,Singapore,Dengue,0.0,down,,
+388,2016.0,5,Singapore,Dengue,429.0,up,"From 8 to 21 May 2016 , there were 429 new dengue cases reported in Singapore",Dengue-20160531.pdf
+389,2016.0,6,Singapore,Dengue,193.0,down,"From 12 to 18 June 2016 , there were 193 new dengue cases reported in Singapore",Dengue-20160628.pdf
+390,2016.0,7,Singapore,Dengue,222.0,up,"In week 30 , there were 222 dengue cases reported in Singapore",Dengue-20160809.pdf
+391,2016.0,8,Singapore,Dengue,274.0,up,"Singapore In week 34 , there were 274 dengue cases reported in Singapore",Dengue-20160906.pdf
+392,2016.0,9,Singapore,Dengue,174.0,down,"In week 38 , there were 174 dengue cases reported in Singapore",Dengue-20161004.pdf
+393,2016.0,10,Singapore,Dengue,86.0,down,"Singapore In week 44 , there were 86 dengue cases reported in Singapore",Dengue-20161115.pdf
+394,2016.0,11,Singapore,Dengue,87.0,up,"Singapore In week 48 , there were 87 dengue cases reported in Singapore",Dengue-20161213.pdf
+395,2016.0,12,Singapore,Dengue,0.0,down,,
+396,2017.0,1,Singapore,Dengue,63.0,up,"Singapore In week 5 , 2017 , there were 63 dengue cases reported in Singapore",Dengue-20170214.pdf
+397,2017.0,2,Singapore,Dengue,529.0,up,"Singapore As of 18 February 2017 , there were 592 dengue cases reported in Singapore since January 2017",Dengue-20170228.pdf
+398,2017.0,3,Singapore,Dengue,92.0,down,"Singapore As of 25 March 2017 , there were 684 dengue cases reported in Singapore since January 2017",Dengue-20170411.pdf
+399,2017.0,4,Singapore,Dengue,202.0,up,"Singapore As of 28 April 2017 , there were 886 dengue cases reported in Singapore since January 2017",Dengue-20170509.pdf
+400,2017.0,5,Singapore,Dengue,197.0,down,"Singapore As of 27 May 2017 , there were 1,083 dengue cases reported in Singapore since January 2017",Dengue-20170606.pdf
+401,2017.0,6,Singapore,Dengue,299.0,up,"As of 24 June 2017 , there were 1,382 dengue cases reported in Singapore since January 2017",Dengue-20170704.pdf
+402,2017.0,7,Singapore,Dengue,222.0,down,"Singapore As of 22 July 2017 , there were 1,604 dengue cases reported in Singapore since January 2017",Dengue-20170801.pdf
+403,2017.0,8,Singapore,Dengue,241.0,up,"Singapore As of 19 August 2017 , there were 1,845 dengue cases reported in Singapore since January 2017",Dengue-20170829.pdf
+404,2017.0,9,Singapore,Dengue,271.0,up,"Singapore As of 30 September 2017 , there were 2,116 dengue cases reported in Singapore since January 2017",Dengue-20171010.pdf
+405,2017.0,10,Singapore,Dengue,52.0,down,"As of 7 October 2017 , there were 2,168 dengue cases reported in Singapore since January 2017",Dengue-20171024.pdf
+406,2017.0,11,Singapore,Dengue,352.0,up,"Singapore As of 18 November 2017 , there were 2,520 dengue cases reported in Singapore since January 2017",Dengue-20171205.pdf
+407,2017.0,12,Singapore,Dengue,169.0,down,"As of 23 December 2017 , there were 2,689 dengue cases reported in Singapore since January 2017",Dengue-20180102.pdf
+408,2018.0,1,Singapore,Dengue,83.0,up,"As of 6 January 2018 , there were 83 dengue cases with no deaths reported in Singapore since January 2018",Dengue-20180116.pdf
+409,2018.0,2,Singapore,Dengue,-55.0,down,"Singapore As of 17 February 2018 , there were 28 dengue cases reported in Singapore",Dengue-20180227.pdf
+410,2018.0,3,Singapore,Dengue,-4.0,up,"Singapore As of 31 March 2018 , there were 24 dengue cases reported in Singapore",Dengue-20180412.pdf
+411,2018.0,4,Singapore,Dengue,31.0,up,"Singapore As of 28 April 2018 , there were 55 dengue cases reported in Singapore",Dengue-20180510.pdf
+412,2018.0,5,Singapore,Dengue,66.0,up,"Singapore In week 21 , 2018 , there were 66 cases of dengue fever reported in Singapore",Dengue-20180607.pdf
+413,2018.0,6,Singapore,Dengue,76.0,up,"Singapore In week 26 , 2018 , there were 76 cases of dengue fever reported in Singapore , with a total of 1,379 cases reported in 2018",Dengue-20180705.pdf
+414,2018.0,7,Singapore,Dengue,56.0,down,"Singapore In week 30 , there were 56 dengue cases reported in Singapore , with a total of 1 579 cases reported in 2018",Dengue-20180816.pdf
+415,2018.0,8,Singapore,Dengue,76.0,up,"Singapore In week 35 , there were 76 dengue cases reported in Singapore , with a total of 1 855 cases reported in 2018",Dengue-20180913.pdf
+416,2018.0,9,Singapore,Dengue,40.0,down,"Singapore In week 39 , there were 40 dengue cases reported in Singapore , with a total of 2 081 cases reported in 2018",Dengue-20181011.pdf
+417,2018.0,10,Singapore,Dengue,78.0,up,"Singapore In week 43 , there were 78 dengue cases reported in Singapore , with a total of 2321 cases reported in 2018",Dengue-20181108.pdf
+418,2018.0,11,Singapore,Dengue,175.0,up,"Singapore In week 46 and Week 47 , there were 175 dengue cases reported in Singapore , with a total of 2 665 cases reported in 2018",Dengue-20181206.pdf
+419,2018.0,12,Singapore,Dengue,160.0,down,"Singapore In week 52 , there were 160 dengue cases reported in Singapore , with a total of 3,259 cases reported in 2018",Dengue-20190117.pdf
+420,2019.0,1,Singapore,Dengue,0.0,up,,
+421,2019.0,2,Singapore,Dengue,0.0,down,,
+422,2019.0,3,Singapore,Dengue,0.0,down,,
+423,2019.0,4,Singapore,Dengue,0.0,down,,
+424,2019.0,5,Singapore,Dengue,0.0,down,,
+425,2019.0,6,Singapore,Dengue,0.0,down,,
+426,2019.0,7,Singapore,Dengue,0.0,down,,
+427,2019.0,8,Singapore,Dengue,0.0,down,,
+428,2019.0,9,Singapore,Dengue,0.0,down,,
+429,2019.0,10,Singapore,Dengue,0.0,down,,
+430,2019.0,11,Singapore,Dengue,0.0,down,,
+431,2019.0,12,Singapore,Dengue,0.0,down,,
+432,2020.0,1,Singapore,Dengue,0.0,up,,
+433,2020.0,2,Singapore,Dengue,0.0,down,,
+434,2020.0,3,Singapore,Dengue,0.0,down,,
+435,2020.0,4,Singapore,Dengue,0.0,down,,
+436,2020.0,5,Singapore,Dengue,0.0,down,,
+437,2020.0,6,Singapore,Dengue,12363.0,up,"A total of 12,363 cases have been reported as of 20 June 2020 , which is higher than the same period in 2013 and 2014 , when the largest outbreak was recorded in Singapore ’ s history",Dengue-20200702.pdf
+438,2020.0,7,Singapore,Dengue,6266.0,down,"A total of 18,629 cases have been reported as of 18 July 2020 , which is higher than the same period in 2013 and 2014 , when the largest outbreak was recorded in Singapore ’ s history",Dengue-20200730.pdf
+439,2020.0,8,Singapore,Dengue,8651.0,up,"A total of 27,280 cases have been reported as of 29 August 2020 , which is higher than the same period in 2013 and 2014 , when the largest outbreak was recorded in Singapore ’ s history",Dengue-20200910.pdf
+440,2020.0,9,Singapore,Dengue,2336.0,down,"A total of 29,616 cases have been reported as of 27 September 2020 , which is higher than the same period in 2013 and 2014 , when the largest outbreak was recorded in Singapore ’ s history",Dengue-20201008.pdf
+441,2020.0,10,Singapore,Dengue,1722.0,down,"A total of 31,338 cases have been reported as of 10 October 2020 , which is higher than the same period in 2013 and 2014 , when the largest outbreak was recorded in Singapore ’ s history",Dengue-20201022.pdf
+442,2020.0,11,Singapore,Dengue,0.0,down,,
+443,2020.0,12,Singapore,Dengue,0.0,down,,
+444,2021.0,1,Singapore,Dengue,0.0,up,,
+445,2021.0,2,Singapore,Dengue,0.0,down,,
+446,2021.0,3,Singapore,Dengue,0.0,down,,
+447,2021.0,4,Singapore,Dengue,0.0,down,,
+448,2021.0,5,Singapore,Dengue,0.0,down,,
+449,2021.0,6,Singapore,Dengue,0.0,down,,
+450,2021.0,7,Singapore,Dengue,0.0,down,,
+451,2021.0,8,Singapore,Dengue,0.0,down,,
+452,2021.0,9,Singapore,Dengue,0.0,down,,
+453,2021.0,10,Singapore,Dengue,0.0,down,,
+454,2021.0,11,Singapore,Dengue,0.0,down,,
+455,2021.0,12,Singapore,Dengue,0.0,down,,
+456,2022.0,1,Singapore,Dengue,0.0,up,,
+457,2022.0,2,Singapore,Dengue,0.0,down,,
+458,2022.0,3,Singapore,Dengue,0.0,down,,
+459,2022.0,4,Singapore,Dengue,0.0,down,,
+460,2022.0,5,Singapore,Dengue,0.0,down,,
+461,2022.0,6,Singapore,Dengue,0.0,down,,
+462,2022.0,7,Singapore,Dengue,0.0,down,,
+463,2022.0,8,Singapore,Dengue,0.0,down,,
+464,2022.0,9,Singapore,Dengue,0.0,down,,
+465,2022.0,10,Singapore,Dengue,0.0,down,,
+466,2022.0,11,Singapore,Dengue,0.0,down,,
+467,2022.0,12,Singapore,Dengue,0.0,down,,
+468,2015.0,1,Singapore,Dengue,0.0,up,,
+469,2015.0,2,Singapore,Dengue,0.0,down,,
+470,2015.0,3,Singapore,Dengue,0.0,down,,
+471,2015.0,4,Singapore,Dengue,2608.0,up,"As of 25 April , there were 2,608 cases of dengue reported in Singapore for 2015",Dengue-20150504.pdf
+472,2015.0,5,Singapore,Dengue,522.0,down,"As of 23 May 2015 , there were 3,130 cases of dengue reported in Singapore for 2015",Dengue-20150602.pdf
+473,2015.0,6,Singapore,Dengue,738.0,up,"As of 20 June 2015 , there were 3,868 cases of dengue reported in Singapore for 2015",Dengue-20150701.pdf
+474,2015.0,7,Singapore,Dengue,1312.0,up,"As of 25 July 2015 , there were 5,180 cases of dengue reported in Singapore for 2015",Dengue-20150729.pdf
+475,2015.0,8,Singapore,Dengue,1167.0,down,"As of 29 August 2015 , there were 6,347 cases of dengue reported in Singapore for 2015",Dengue-20150908.pdf
+476,2015.0,9,Singapore,Dengue,789.0,down,"As of 19 September 2015 , there were 7136 cases of dengue reported in Singapore for 2015",Dengue-20150922.pdf
+477,2015.0,10,Singapore,Dengue,929.0,up,"Singapore As of 24 October 2015 , there were 8,065 cases of dengue reported in Singapore for 2015",Dengue-20151103.pdf
+478,2015.0,11,Singapore,Dengue,1173.0,up,"As of 21 November 2015 , there were 9,238 cases of dengue reported in Singapore for 2015",Dengue-20151201.pdf
+479,2015.0,12,Singapore,Dengue,2060.0,up,"A total of 11,298 cases of dengue have been reported in Singapore for 2015 ( data up to week 52 ending 2 January 2016 ) , 61 % lower than the number of cases reported in 2014 ( n=18,168 ) for the same reporting period",Dengue-20160113.pdf
+480,2016.0,1,China,Dengue,0.0,up,,
+481,2016.0,2,China,Dengue,0.0,down,,
+482,2016.0,3,China,Dengue,91.0,up,"Northern Hemisphere China As of 31 March , there were 91 cases of dengue reported in China in 2016 ( 28 in January , 45 in February , 18 in March )",Dengue-20160419.pdf
+483,2016.0,4,China,Dengue,30.0,down,"Northern Hemisphere China As of 30 April 2016 , there were 121 cases of dengue reported in China in 2016",Dengue-20160531.pdf
+484,2016.0,5,China,Dengue,0.0,down,,
+485,2016.0,6,China,Dengue,33.0,up,"Northern Hemisphere China As of 13 June 2016 , there were 154 cases of dengue reported in China in 2016",Dengue-20160614.pdf
+486,2016.0,7,China,Dengue,83.0,up,"China As of 31 July 2016 , there were 237 cases of dengue reported in China in 2016",Dengue-20160823.pdf
+487,2016.0,8,China,Dengue,613.0,up,"China As of 31 August 2016 , there were 850 cases of dengue reported in China in 2016",Dengue-20160920.pdf
+488,2016.0,9,China,Dengue,632.0,up,"China As of 30 September 2016 , there were 1,482 cases of dengue reported in China in 2016",Dengue-20161102.pdf
+489,2016.0,10,China,Dengue,358.0,down,"China As of 31 October 2016 , there were 1,840 cases of dengue reported in China in 2016",Dengue-20161115.pdf
+490,2016.0,11,China,Dengue,0.0,down,,
+491,2016.0,12,China,Dengue,236.0,up,"China As of 31 December 2016 , there were 2076 cases of dengue reported in China in 2016",Dengue-20170117.pdf
+492,2017.0,1,China,Dengue,34.0,up,"China As of 31 January 2017 , there were 34 cases of dengue reported in China in 2017",Dengue-20170228.pdf
+493,2017.0,2,China,Dengue,20.0,down,"China As of 28 February 2017 , there were 54 cases of dengue reported in China in 2017",Dengue-20170314.pdf
+494,2017.0,3,China,Dengue,13.0,down,"China As of 31 March 2017 , there were 67 cases of dengue reported in China in 2017",Dengue-20170425.pdf
+495,2017.0,4,China,Dengue,27.0,up,"China As of 30 April , there were 94 cases of dengue reported in China in 2017",Dengue-20170523.pdf
+496,2017.0,5,China,Dengue,46.0,up,"China As of 31 May , there were 140 cases of dengue reported in China in 2017",Dengue-20170704.pdf
+497,2017.0,6,China,Dengue,88.0,up,"China As of 30 June , there were 228 cases of dengue reported in China in 2017",Dengue-20170718.pdf
+498,2017.0,7,China,Dengue,275.0,up,"As of 31 July , there were 503 cases of dengue reported in China in 2017",Dengue-20170912.pdf
+499,2017.0,8,China,Dengue,0.0,down,,
+500,2017.0,9,China,Dengue,1401.0,up,"China As of 30 September , there were 1,904 cases of dengue reported in China in 2017",Dengue-20171024.pdf
+501,2017.0,10,China,Dengue,0.0,down,,
+502,2017.0,11,China,Dengue,765.0,up,"During November 2017 , there were 765 cases of dengue reported in China in 2017",Dengue-20171219.pdf
+503,2017.0,12,China,Dengue,139.0,down,"China During December 2017 , there were 139 cases of dengue and one death reported in China in 2017",Dengue-20180116.pdf
+504,2018.0,1,China,Dengue,16.0,up,"China As of 31 January 2018 , a total of 16 dengue cases were reported in China",Dengue-20180213.pdf
+505,2018.0,2,China,Dengue,0.0,down,"As of 28 February 2018 , a total of 16 dengue cases were reported in China",Dengue-20180329.pdf
+506,2018.0,3,China,Dengue,3.0,up,"China As of 31 March 2018 , a total of 19 dengue cases were reported in China",Dengue-20180426.pdf
+507,2018.0,4,China,Dengue,6.0,up,"China As of 30 April 2018 , a total of 25 dengue cases were reported in China",Dengue-20180524.pdf
+508,2018.0,5,China,Dengue,59.0,up,China A total of 59 dengue cases were reported in China in May 2018,Dengue-20180621.pdf
+509,2018.0,6,China,Dengue,119.0,up,China A total of 119 dengue cases were reported in China in June 2018,Dengue-20180719.pdf
+510,2018.0,7,China,Dengue,197.0,up,"China In July 2018 , 197 dengue cases were reported in China",Dengue-20180816.pdf
+511,2018.0,8,China,Dengue,482.0,up,"China In August , 2018 , 482 dengue cases were reported in China",Dengue-20180913.pdf
+512,2018.0,9,China,Dengue,1497.0,up,"China In September , 2018 , 1 497 dengue cases were reported in China",Dengue-20181025.pdf
+513,2018.0,10,China,Dengue,0.0,down,,
+514,2018.0,11,China,Dengue,728.0,up,"China In November , 2018 , 728 dengue cases were reported in China",Dengue-20181220.pdf
+515,2018.0,12,China,Dengue,184.0,down,"China In December 2018 , 184 dengue cases were reported in China",Dengue-20190131.pdf
+516,2019.0,1,China,Dengue,165.0,up,"China In January 2019 , 165 dengue cases were reported in China",Dengue-20190228.pdf
+517,2019.0,2,China,Dengue,78.0,down,"China In February 2019 , 78 dengue cases were reported in China",Dengue-20190411.pdf
+518,2019.0,3,China,Dengue,52.0,down,"China In March 2019 , 52 dengue cases were reported in China",Dengue-20190509.pdf
+519,2019.0,4,China,Dengue,142.0,up,"China In April 2019 , 142 dengue cases were reported in China",Dengue-20190606.pdf
+520,2019.0,5,China,Dengue,330.0,up,"China In May 2019 , 330 dengue cases were reported in China",Dengue-20190704.pdf
+521,2019.0,6,China,Dengue,788.0,up,"China In June 2019 , 788 dengue cases were reported in China",Dengue-20190801.pdf
+522,2019.0,7,China,Dengue,0.0,down,,
+523,2019.0,8,China,Dengue,3311.0,up,"China In August 2019 , 3,311 dengue cases were reported in China",Dengue-20191023.pdf
+524,2019.0,9,China,Dengue,0.0,down,,
+525,2019.0,10,China,Dengue,6120.0,up,"China In October 2019 , 6,120 dengue cases were reported in China",Dengue-20191219.pdf
+526,2019.0,11,China,Dengue,1767.0,down,"China In November 2019 , 1,767 dengue cases were reported in China",Dengue-20200102.pdf
+527,2019.0,12,China,Dengue,268.0,down,"China In December 2019 , 268 dengue cases were reported in China",Dengue-20200213.pdf
+528,2020.0,1,China,Dengue,268.0,up,"China In January 2020 , 268 dengue cases were reported in China",Dengue-20200312.pdf
+529,2020.0,2,China,Dengue,17.0,down,"China In February 2020 , 17 dengue cases were reported in China",Dengue-20200409.pdf
+530,2020.0,3,China,Dengue,16.0,down,"China In March 2020 , 16 dengue cases with zero deaths were reported in China",Dengue-20200507.pdf
+531,2020.0,4,China,Dengue,0.0,down,,
+532,2020.0,5,China,Dengue,4.0,up,"China In May 2020 , four dengue cases and no additional deaths were reported in China",Dengue-20200716.pdf
+533,2020.0,6,China,Dengue,4.0,down,"China In June 2020 , four dengue cases and no additional deaths were reported in China",Dengue-20200730.pdf
+534,2020.0,7,China,Dengue,23.0,up,"China In July 2020 , 23 dengue cases and no additional deaths were reported in China",Dengue-20200910.pdf
+535,2020.0,8,China,Dengue,55.0,up,"China In August 2020 , 55 dengue cases and no additional deaths were reported in China",Dengue-20201008.pdf
+536,2020.0,9,China,Dengue,0.0,down,,
+537,2020.0,10,China,Dengue,0.0,down,,
+538,2020.0,11,China,Dengue,0.0,down,,
+539,2020.0,12,China,Dengue,9.0,up,"China In December 2020 , nine dengue cases and no additional deaths were reported in China",Dengue-20210128.pdf
+540,2021.0,1,China,Dengue,5.0,up,"China In January 2021 , five dengue cases and no deaths were reported in China",Dengue-20210225.pdf
+541,2021.0,2,China,Dengue,2.0,down,"China In February 2021 , two dengue cases and no deaths were reported in China",Dengue-20210325.pdf
+542,2021.0,3,China,Dengue,0.0,down,"China In March 2021 , there were no dengue cases or deaths reported in China",Dengue-20210506.pdf
+543,2021.0,4,China,Dengue,4.0,up,"China In April 2021 , four dengue cases and no deaths were reported in China",Dengue-20210603.pdf
+544,2021.0,5,China,Dengue,5.0,up,"China In May 2021 , five dengue cases and no deaths were reported in China",Dengue-20210701.pdf
+545,2021.0,6,China,Dengue,8.0,up,"China In June 2021 , eight dengue cases and no deaths were reported in China",Dengue-20210729.pdf
+546,2021.0,7,China,Dengue,3.0,down,"China In July 2021 , three dengue cases and no deaths were reported in China",Dengue-20210826.pdf
+547,2021.0,8,China,Dengue,3.0,down,"China In August 2021 , three dengue cases and no deaths were reported in China",Dengue-20211007.pdf
+548,2021.0,9,China,Dengue,4.0,up,"China In September 2021 , four dengue cases and no deaths were reported in China",Dengue-20211104.pdf
+549,2021.0,10,China,Dengue,0.0,down,,
+550,2021.0,11,China,Dengue,5.0,up,"China In November 2021 , five dengue cases and no deaths were reported in China",Dengue-20211229.pdf
+551,2021.0,12,China,Dengue,0.0,down,,
+552,2022.0,1,China,Dengue,0.0,up,"China In January 2022 , no dengue case and no death have been reported in China",Dengue-20220224.pdf
+553,2022.0,2,China,Dengue,0.0,down,"China In February 2022 , no dengue case and no death have been reported in China",Dengue-20220324.pdf
+554,2022.0,3,China,Dengue,0.0,down,,
+555,2022.0,4,China,Dengue,0.0,down,,
+556,2022.0,5,China,Dengue,0.0,down,,
+557,2022.0,6,China,Dengue,0.0,down,,
+558,2022.0,7,China,Dengue,0.0,down,,
+559,2022.0,8,China,Dengue,0.0,down,,
+560,2022.0,9,China,Dengue,0.0,down,,
+561,2022.0,10,China,Dengue,0.0,down,,
+562,2022.0,11,China,Dengue,0.0,down,,
+563,2022.0,12,China,Dengue,5.0,up,"China In December 2021 , 5 dengue cases and no deaths were reported in China",Dengue-20220113.pdf
+564,2015.0,1,China,Dengue,0.0,up,,
+565,2015.0,2,China,Dengue,0.0,down,,
+566,2015.0,3,China,Dengue,0.0,down,,
+567,2015.0,4,China,Dengue,20.0,up,"Northern Hemisphere China As of 30 April , there were 20 cases of dengue reported in China for 2015",Dengue-20150602.pdf
+568,2015.0,5,China,Dengue,6.0,down,"Northern Hemisphere China As of 30 May , there were 26 cases of dengue reported in China for 2015",Dengue-20150617.pdf
+569,2015.0,6,China,Dengue,17.0,up,"Northern Hemisphere China As of 30 June , there were 43 cases of dengue reported in China for 2015",Dengue-20150715.pdf
+570,2015.0,7,China,Dengue,242.0,up,"Northern Hemisphere China As of 31 July 2015 , there were 285 cases of dengue reported in China",Dengue-20150825.pdf
+571,2015.0,8,China,Dengue,153.0,down,"Northern Hemisphere China As of 31 August , there were 438 cases of dengue reported in 2015 for China",Dengue-20150922.pdf
+572,2015.0,9,China,Dengue,1479.0,up,"Northern Hemisphere China As of 30 September , there were 1917 cases of dengue reported in 2015 for China , with majority of the cases being reported during September",Dengue-20151020.pdf
+573,2015.0,10,China,Dengue,1435.0,down,"Northern Hemisphere China As of 31 October , there were 3352 cases of dengue reported in 2015 for China , with majority of the cases being reported during September and October",Dengue-20151201.pdf
+574,2015.0,11,China,Dengue,470.0,down,"Northern Hemisphere China As of 30 November , there were 3,822 cases of dengue reported in 2015 for China , with majority of the cases being reported during September and October 2015",Dengue-20151215.pdf
+575,2015.0,12,China,Dengue,62.0,down,"As of 31 December , there were 3,884 cases of dengue reported in 2015 for China , with majority of the cases being reported during September and October",Dengue-20160113.pdf
+576,2016.0,1,Cambodia,Dengue,0.0,up,,
+577,2016.0,2,Cambodia,Dengue,663.0,up,"As of 20 February 2016 , there were 663 cases of dengue ( with no deaths ) reported in Cambodia",Dengue-20160419.pdf
+578,2016.0,3,Cambodia,Dengue,0.0,down,,
+579,2016.0,4,Cambodia,Dengue,0.0,down,,
+580,2016.0,5,Cambodia,Dengue,1108.0,up,"From 1 January to 17 May 2016 , there have been 1,771 cases of dengue and 4 deaths reported in Cambodia",Dengue-20160531.pdf
+581,2016.0,6,Cambodia,Dengue,0.0,down,,
+582,2016.0,7,Cambodia,Dengue,0.0,down,,
+583,2016.0,8,Cambodia,Dengue,0.0,down,,
+584,2016.0,9,Cambodia,Dengue,0.0,down,,
+585,2016.0,10,Cambodia,Dengue,0.0,down,,
+586,2016.0,11,Cambodia,Dengue,0.0,down,,
+587,2016.0,12,Cambodia,Dengue,0.0,down,,
+588,2017.0,1,Cambodia,Dengue,0.0,up,,
+589,2017.0,2,Cambodia,Dengue,104.0,up,"Cambodia As of 28 February 2017 , a total of 104 cases of suspected dengue cases were reported in 2017",Dengue-20170314.pdf
+590,2017.0,3,Cambodia,Dengue,34.0,down,"Cambodia As of 21 March 2017 , a total of 138 cases of suspected dengue cases were reported in 2017",Dengue-20170328.pdf
+591,2017.0,4,Cambodia,Dengue,68.0,up,"Cambodia As of 18 April 2017 , a total of 206 cases of suspected dengue cases were reported in 2017",Dengue-20170425.pdf
+592,2017.0,5,Cambodia,Dengue,179.0,up,"Cambodia As of 30 May 2017 , a total of 385 suspected dengue fever cases were reported in 2017",Dengue-20170606.pdf
+593,2017.0,6,Cambodia,Dengue,380.0,up,"Cambodia As of 30 June 2017 , a total of 765 suspected dengue fever cases were reported in 2017",Dengue-20170704.pdf
+594,2017.0,7,Cambodia,Dengue,563.0,up,"Cambodia As of 25 July 2017 , a total of 1,328 suspected dengue fever cases were reported in 2017",Dengue-20170801.pdf
+595,2017.0,8,Cambodia,Dengue,510.0,down,"Cambodia As of 22 August 2017 , a total of 1,838 suspected dengue cases were reported in 2017",Dengue-20170829.pdf
+596,2017.0,9,Cambodia,Dengue,0.0,down,,
+597,2017.0,10,Cambodia,Dengue,696.0,up,"Cambodia As of 3 October 2017 , a total of 2,534 suspected dengue cases were reported in 2017",Dengue-20171010.pdf
+598,2017.0,11,Cambodia,Dengue,522.0,down,"Cambodia As of 28 November 2017 , a total of 3,056 suspected dengue cases were reported in 2017",Dengue-20171205.pdf
+599,2017.0,12,Cambodia,Dengue,160.0,down,"Cambodia As of 2 January 2018 , a total of 3,216 suspected dengue cases were reported in 2017",Dengue-20180116.pdf
+600,2018.0,1,Cambodia,Dengue,0.0,up,,
+601,2018.0,2,Cambodia,Dengue,132.0,up,"Northern Hemisphere Cambodia As of 20 February 2018 , a total of 132 suspected dengue cases have been reported in Cambodia in 2018",Dengue-20180227.pdf
+602,2018.0,3,Cambodia,Dengue,115.0,down,"Cambodia As of 20 March 2018 , a total of 247 suspected dengue cases have been reported in Cambodia in 2018",Dengue-20180329.pdf
+603,2018.0,4,Cambodia,Dengue,161.0,up,"Cambodia As of 17 April 2018 , a total of 408 suspected dengue cases have been reported in Cambodia",Dengue-20180426.pdf
+604,2018.0,5,Cambodia,Dengue,552.0,up,"Northern Hemisphere Cambodia As of 31 May 2018 , a total of 960 suspected dengue cases have been reported in Cambodia",Dengue-20180607.pdf
+605,2018.0,6,Cambodia,Dengue,1199.0,up,"Northern Hemisphere Cambodia As of 23 June 2018 , a total of 2,159 suspected dengue cases have been reported in Cambodia",Dengue-20180705.pdf
+606,2018.0,7,Cambodia,Dengue,1709.0,up,"Northern Hemisphere Cambodia As of 24 July 2018 , a total of 3,868 suspected dengue cases have been reported in Cambodia",Dengue-20180802.pdf
+607,2018.0,8,Cambodia,Dengue,2229.0,up,"Cambodia As of week 35 , 2018 , a total of 6 097 suspected dengue cases have been reported in Cambodia",Dengue-20180913.pdf
+608,2018.0,9,Cambodia,Dengue,1068.0,down,"Northern Hemisphere Cambodia As of week 39 , 2018 , a total of 7 165 suspected dengue cases have been reported in Cambodia",Dengue-20181011.pdf
+609,2018.0,10,Cambodia,Dengue,881.0,down,"Northern Hemisphere Cambodia As of week 43 , 2018 , a total of 8046 suspected dengue cases have been reported in Cambodia",Dengue-20181108.pdf
+610,2018.0,11,Cambodia,Dengue,798.0,down,"Northern Hemisphere Cambodia As of week 47 , 2018 , a total of 8 844 suspected dengue cases have been reported in Cambodia",Dengue-20181206.pdf
+611,2018.0,12,Cambodia,Dengue,1041.0,up,"Northern Hemisphere Cambodia As of week 51 , 2018 , a total of 9,885 suspected dengue cases have been reported in Cambodia",Dengue-20190103.pdf
+612,2019.0,1,Cambodia,Dengue,493.0,up,"Northern Hemisphere Cambodia Until week 3 , 2019 , a total of 493 suspected dengue cases have been reported in Cambodia",Dengue-20190131.pdf
+613,2019.0,2,Cambodia,Dengue,837.0,up,"Northern Hemisphere Cambodia As of week 7 , 2019 , a total of 1,330 suspected dengue cases have been reported in Cambodia",Dengue-20190228.pdf
+614,2019.0,3,Cambodia,Dengue,321.0,down,"Cambodia In week 11 , 2019 , a total of 321 suspected dengue cases were reported in Cambodia",Dengue-20190328.pdf
+615,2019.0,4,Cambodia,Dengue,693.0,up,"Northern Hemisphere Cambodia In week 17 , 2019 , a total of 693 suspected dengue cases were reported in Cambodia",Dengue-20190509.pdf
+616,2019.0,5,Cambodia,Dengue,1317.0,up,"Northern Hemisphere Cambodia In week 21 , 2019 , a total of 1,317 suspected dengue cases were reported in Cambodia",Dengue-20190606.pdf
+617,2019.0,6,Cambodia,Dengue,4032.0,up,"Northern Hemisphere Cambodia In week 25 , 2019 , a total of 4,032 suspected dengue cases were reported in Cambodia",Dengue-20190704.pdf
+618,2019.0,7,Cambodia,Dengue,4532.0,up,"Northern Hemisphere Cambodia In week 29 2019 , a total of 4,532 dengue cases were reported through the Cambodia Early Warning Response Network , which is a slight decrease compared to the previous week",Dengue-20190801.pdf
+619,2019.0,8,Cambodia,Dengue,1850.0,down,"Cambodia In week 33 2019 , a total of 1,850 dengue cases were reported through the Cambodia Early Warning Response Network",Dengue-20190829.pdf
+620,2019.0,9,Cambodia,Dengue,812.0,down,"Cambodia In week 39 2019 , a total of 812 dengue cases were reported through the Cambodia Early Warning Response Network",Dengue-20191010.pdf
+621,2019.0,10,Cambodia,Dengue,888.0,up,"Northern Hemisphere Cambodia In week 41 2019 , a total of 888 dengue cases were reported to the Cambodia National Dengue Surveillance System",Dengue-20191107.pdf
+622,2019.0,11,Cambodia,Dengue,231.0,down,"Cambodia In week 47 , 2019 , a total of 231 dengue cases were reported to the Cambodia National Dengue Surveillance System",Dengue-20191219.pdf
+623,2019.0,12,Cambodia,Dengue,52.0,down,"Cambodia In week 52 , 2019 , a total of 52 dengue cases were reported to the Cambodia National Dengue Surveillance System",Dengue-20200116.pdf
+624,2020.0,1,Cambodia,Dengue,1638.0,up,"Cambodia From week 1 to 11 , 2020 , a total of 1,638 dengue cases with no death have been reported in Cambodia",Dengue-20200326.pdf
+625,2020.0,2,Cambodia,Dengue,1239.0,down,"Cambodia From week 1 to 7 , 2020 , a total of 1,239 suspected dengue cases have been reported in Cambodia",Dengue-20200227.pdf
+626,2020.0,3,Cambodia,Dengue,0.0,down,,
+627,2020.0,4,Cambodia,Dengue,765.0,up,"Cambodia As of 25 April ( week 17 ) , 2020 , a total of 2,004 dengue cases with no death have been reported in Cambodia",Dengue-20200507.pdf
+628,2020.0,5,Cambodia,Dengue,301.0,down,"Cambodia As of 17 May ( weeks 1 to 20 ) , 2020 , a total of 2,305 dengue cases with 0 death have been reported in Cambodia",Dengue-20200604.pdf
+629,2020.0,6,Cambodia,Dengue,798.0,up,"Cambodia As of week 25 , 2020 , a total of 3,103 dengue cases with one death have been reported ( case fatality rate ( CFR ) 0.03 % ) in Cambodia",Dengue-20200702.pdf
+630,2020.0,7,Cambodia,Dengue,1347.0,up,"Cambodia As of week 29 , 2020 , a total of 4,450 dengue cases with five deaths have been reported in Cambodia ( case fatality rate ( CFR ) 0.11 % )",Dengue-20200730.pdf
+631,2020.0,8,Cambodia,Dengue,3373.0,up,"Northern Hemisphere Cambodia As of week 35 , 2020 , a total of 7,823 dengue cases with nine deaths have been reported in Cambodia ( case fatality rate ( CFR ) 0.12 % )",Dengue-20200910.pdf
+632,2020.0,9,Cambodia,Dengue,1285.0,down,"Cambodia As of week 39 , 2020 , a total of 9,108 dengue with 14 deaths have been reported in Cambodia ( case fatality rate ( CFR ) 0.1 % ) The number of cases reported in week 39 is only 15 % of the 61,198 cases reported in the same period in 2019",Dengue-20201008.pdf
+633,2020.0,10,Cambodia,Dengue,0.0,down,,
+634,2020.0,11,Cambodia,Dengue,0.0,down,,
+635,2020.0,12,Cambodia,Dengue,2869.0,up,"Cambodia As of week 52 , 2020 , a total of 11,977 dengue cases with 16 deaths have been reported in Cambodia ( case fatality rate ( CFR ) 0.1 % )",Dengue-20210114.pdf
+636,2021.0,1,Cambodia,Dengue,0.0,up,,
+637,2021.0,2,Cambodia,Dengue,278.0,up,"Cambodia As of week 6 , 2021 , a total of 278 dengue cases with no deaths have been reported in Cambodia",Dengue-20210225.pdf
+638,2021.0,3,Cambodia,Dengue,153.0,down,"Cambodia As of week 11 , 2021 , a total of 431 dengue cases , including one death , have been reported in Cambodia",Dengue-20210408.pdf
+639,2021.0,4,Cambodia,Dengue,0.0,down,,
+640,2021.0,5,Cambodia,Dengue,254.0,up,"Cambodia As of epidemiological week 22 , 2021 , a total of 685 dengue cases , including one death , have been reported in Cambodia for 2021",Dengue-20210617.pdf
+641,2021.0,6,Cambodia,Dengue,105.0,down,"Northern Hemisphere Cambodia As of epidemiological week 25 , 2021 , a total of 790 dengue cases , including one death , have been reported in Cambodia for 2021",Dengue-20210715.pdf
+642,2021.0,7,Cambodia,Dengue,139.0,up,"Northern Hemisphere Cambodia As of epidemiological week 30 , 2021 , a total of 929 dengue cases , including two deaths , have been reported in Cambodia for 2021",Dengue-20210812.pdf
+643,2021.0,8,Cambodia,Dengue,73.0,down,"Northern Hemisphere Cambodia As of epidemiological week 32 , 2021 , a total of 1,002 dengue cases , including three deaths , have been reported in Cambodia for 2021",Dengue-20210826.pdf
+644,2021.0,9,Cambodia,Dengue,255.0,up,"Northern Hemisphere Cambodia ( no change ) As of epidemiological week 38 , 2021 , a total of 1,257 dengue cases , including three deaths , have been reported in Cambodia for 2021",Dengue-20211104.pdf
+645,2021.0,10,Cambodia,Dengue,149.0,down,"Cambodia As of epidemiological week 42 , 2021 , a total of 1,406 dengue cases , including three deaths , have been reported in Cambodia for 2021",Dengue-20211118.pdf
+646,2021.0,11,Cambodia,Dengue,117.0,down,"Cambodia As of epidemiological week 44 , 2021 , a total of 1,523 dengue cases , including four deaths , have been reported in Cambodia for 2021",Dengue-20211202.pdf
+647,2021.0,12,Cambodia,Dengue,1903.0,up,"Cambodia From epidemiological week 52 in 2021 , a total of 1,903 dengue cases , including eight deaths ( case fatality rate ( CFR ) 0.4 % ) , have been reported in Cambodia for 2021",Dengue-20220113.pdf
+648,2022.0,1,Cambodia,Dengue,184.0,up,"Cambodia As of epidemiological week 4 of 2022 , a total of 184 dengue cases , and no deaths ( case fatality rate ( CRF ) 0 % ) were reported in Cambodia",Dengue-20220210.pdf
+649,2022.0,2,Cambodia,Dengue,131.0,down,"Northern Hemisphere Cambodia As of epidemiological week 8 of 2022 , a total of 315 dengue cases , and no deaths ( case fatality rate ( CRF ) 0 % ) were reported in Cambodia",Dengue-20220310.pdf
+650,2022.0,3,Cambodia,Dengue,48.0,down,"Northern Hemisphere Cambodia As of epidemiological week 10 of 2022 , a total of 363 dengue cases , and one death ( case fatality rate ( CRF ) 0.3 % ) were reported in Cambodia",Dengue-20220324.pdf
+651,2022.0,4,Cambodia,Dengue,0.0,down,,
+652,2022.0,5,Cambodia,Dengue,0.0,down,,
+653,2022.0,6,Cambodia,Dengue,0.0,down,,
+654,2022.0,7,Cambodia,Dengue,0.0,down,,
+655,2022.0,8,Cambodia,Dengue,0.0,down,,
+656,2022.0,9,Cambodia,Dengue,0.0,down,,
+657,2022.0,10,Cambodia,Dengue,0.0,down,,
+658,2022.0,11,Cambodia,Dengue,0.0,down,,
+659,2022.0,12,Cambodia,Dengue,0.0,down,,
+660,2015.0,1,Cambodia,Dengue,0.0,up,,
+661,2015.0,2,Cambodia,Dengue,0.0,down,,
+662,2015.0,3,Cambodia,Dengue,342.0,up,"As of 24 March , there were 342 cases of dengue , including one death , reported in Cambodia for 2015",Dengue-20150422.pdf
+663,2015.0,4,Cambodia,Dengue,0.0,down,,
+664,2015.0,5,Cambodia,Dengue,777.0,up,"As of 31 May 2015 , there were 1119 cases of dengue , including one death , reported in Cambodia",Dengue-20150701.pdf
+665,2015.0,6,Cambodia,Dengue,781.0,up,"As of 23 June 2015 , there were 1,900 cases of dengue , including seven deaths , reported in Cambodia",Dengue-20150715.pdf
+666,2015.0,7,Cambodia,Dengue,2774.0,up,"As of 28 July 2015 , there were 4,674 cases of dengue , including 16 deaths , reported in Cambodia",Dengue-20150811.pdf
+667,2015.0,8,Cambodia,Dengue,600.0,down,"As of 3 August 2015 , there were 5,274 cases of dengue , including 16 deaths , reported in Cambodia",Dengue-20150825.pdf
+668,2015.0,9,Cambodia,Dengue,0.0,down,,
+669,2015.0,10,Cambodia,Dengue,6944.0,up,"As of 13 October 2015 , there were 12,218 cases of dengue , including 34 deaths , reported in Cambodia",Dengue-20151117.pdf
+670,2015.0,11,Cambodia,Dengue,1787.0,down,"As of 17 November 2015 , there were 14,005 cases of dengue , including 35 deaths , reported in Cambodia",Dengue-20151215.pdf
+671,2015.0,12,Cambodia,Dengue,1407.0,down,"As of 29 December 2015 , there were 15,412 cases of dengue , including 38 deaths [ CFR=0.2 % ] , reported in Cambodia",Dengue-20160113.pdf
+672,2016.0,1,Viet Nam,Dengue,13086.0,up,"As of 31 January 2016 , there were 13,086 cases of dengue , including 2 deaths , reported in 38 of 63 provinces in Viet Nam",Dengue-20160419.pdf
+673,2016.0,2,Viet Nam,Dengue,3881.0,down,"As of 29 February 2016 , there were 16,967 cases of dengue including 7 deaths reported in 39 of 63 provinces in Viet Nam",Dengue-20160531.pdf
+674,2016.0,3,Viet Nam,Dengue,0.0,down,,
+675,2016.0,4,Viet Nam,Dengue,8474.0,up,"As of 30 April 2016 , there were 25,441 cases of dengue including 10 deaths , reported in 44 out of 63 provinces in Viet Nam",Dengue-20160614.pdf
+676,2016.0,5,Viet Nam,Dengue,0.0,down,,
+677,2016.0,6,Viet Nam,Dengue,11198.0,up,"As of 30 June 2016 , there were 36,639 cases of dengue including 11 deaths , reported in 44 out of 63 provinces in Viet Nam",Dengue-20160823.pdf
+678,2016.0,7,Viet Nam,Dengue,10318.0,down,"As of 31 July 2016 , there were 46,957 cases of dengue including 16 deaths , reported in 44 out of 63 provinces in Viet Nam",Dengue-20161004.pdf
+679,2016.0,8,Viet Nam,Dengue,16547.0,up,"As of 31 August 2016 , there were 63,504 cases of dengue including 20 deaths , reported in 44 out of 63 provinces in Viet Nam",Dengue-20161129.pdf
+680,2016.0,9,Viet Nam,Dengue,15700.0,down,"As of 30 September 2016 , there were 79,204 cases of dengue including 27 deaths , reported in 44 out of 63 provinces in Viet Nam",Dengue-20161213.pdf
+681,2016.0,10,Viet Nam,Dengue,0.0,down,,
+682,2016.0,11,Viet Nam,Dengue,31650.0,up,"Viet Nam As of 30 November 2016 , there were 110,854 cases of dengue including 42 deaths reported in Viet Nam",Dengue-20170117.pdf
+683,2016.0,12,Viet Nam,Dengue,11166.0,down,"Viet Nam From 1 January to 31 December 2016 , there were 122,020 cases of dengue including 43 deaths reported in Viet Nam",Dengue-20170214.pdf
+684,2017.0,1,Viet Nam,Dengue,6565.0,up,"Viet Nam In January 2017 , there were 6,565 dengue cases reported ( without deaths ) from 41 out of 63 cities/ provinces in country",Dengue-20170314.pdf
+685,2017.0,2,Viet Nam,Dengue,5447.0,down,"Viet Nam In February 2017 , there were 5,447 dengue cases reported ( including 5 deaths ) from 39 out of 63 provinces ( 58 provinces and 5 municipalities existing at the same level as provinces ) in the country",Dengue-20170411.pdf
+686,2017.0,3,Viet Nam,Dengue,0.0,down,,
+687,2017.0,4,Viet Nam,Dengue,20758.0,up,"Viet Nam As of 23 April 2017 , 26,205 dengue cases including 7 deaths were reported in Viet Nam",Dengue-20170509.pdf
+688,2017.0,5,Viet Nam,Dengue,3496.0,down,"Viet Nam As of 7 May 2017 , there were 29,701 cases of dengue reported in Viet Nam including eight deaths",Dengue-20170523.pdf
+689,2017.0,6,Viet Nam,Dengue,0.0,down,,
+690,2017.0,7,Viet Nam,Dengue,0.0,down,,
+691,2017.0,8,Viet Nam,Dengue,79224.0,up,"Viet Nam As of 27 August 2017 , there were 108,925 cases of dengue reported in Viet Nam including 26 deaths",Dengue-20170912.pdf
+692,2017.0,9,Viet Nam,Dengue,16061.0,down,"Viet Nam As of 13 September 2017 , there were 124,986 cases of dengue reported in Viet Nam including 29 deaths .",Dengue-20170926.pdf
+693,2017.0,10,Viet Nam,Dengue,27938.0,up,"As of 15 October 2017 , there were 152,924 cases of dengue reported in Viet Nam including 30 deaths",Dengue-20171024.pdf
+694,2017.0,11,Viet Nam,Dengue,20245.0,down,"Viet Nam As of 26 November 2017 , there were 173,169 cases of dengue reported in Viet Nam including 30 deaths",Dengue-20171205.pdf
+695,2017.0,12,Viet Nam,Dengue,11572.0,down,"As of 31 December 2017 , there were 184,741 cases of dengue reported in Viet Nam including 32 deaths",Dengue-20180116.pdf
+696,2018.0,1,Viet Nam,Dengue,4635.0,up,"As of 21 January 2018 , there were 4,635 cases of dengue with no deaths reported in Viet Nam .",Dengue-20180130.pdf
+697,2018.0,2,Viet Nam,Dengue,7725.0,up,"Viet Nam As of 18 February 2018 , there were 12,360 cases of dengue with one death reported in Viet Nam",Dengue-20180329.pdf
+698,2018.0,3,Viet Nam,Dengue,0.0,down,,
+699,2018.0,4,Viet Nam,Dengue,4589.0,up,"Viet Nam From 1 January to 29 April 2018 , there were 16,949 cases of dengue including four deaths reported in Viet Nam",Dengue-20180510.pdf
+700,2018.0,5,Viet Nam,Dengue,897.0,down,"Viet Nam There were 897 dengue cases reported from 40 out of 63 provinces in week 21 , 2018",Dengue-20180607.pdf
+701,2018.0,6,Viet Nam,Dengue,972.0,up,"Viet Nam There were 972 dengue cases reported from 40 out of 63 provinces in week 23 , 2018 , which was a 64.4 % decrease compared to the same week in 2017",Dengue-20180621.pdf
+702,2018.0,7,Viet Nam,Dengue,2414.0,up,"Viet Nam During week 31 , a total of 2 414 new cases with no deaths were reported from 48 out of 63 provinces",Dengue-20180830.pdf
+703,2018.0,8,Viet Nam,Dengue,2519.0,up,"Viet Nam During week 34 , a total of 2 519 new dengue cases with no deaths were reported from 49 out of 63 provinces , bringing a cumulative total of 48 607 cases with 9 deaths in 2018",Dengue-20180913.pdf
+704,2018.0,9,Viet Nam,Dengue,3002.0,up,"Viet Nam During week 39 , a total of 3 002 new dengue cases with no deaths were reported from 55 out of 63 provinces , bringing a cumulative total of 67 414 cases with 11 deaths in 2018",Dengue-20181011.pdf
+705,2018.0,10,Viet Nam,Dengue,3895.0,up,"Viet Nam During week 41 , a total of 3 895 new dengue cases with no deaths were reported from 52 out of 63 provinces , bringing a cumulative total of 77 355 cases with 11 deaths in 2018",Dengue-20181025.pdf
+706,2018.0,11,Viet Nam,Dengue,5046.0,up,"Viet Nam During week 47 , a total of 5 046 new dengue cases with one death was reported from 55 out of 63 provinces , bringing a cumulative total of 113 850 cases with 16 deaths in 2018",Dengue-20181206.pdf
+707,2018.0,12,Viet Nam,Dengue,0.0,down,,
+708,2019.0,1,Viet Nam,Dengue,15540.0,up,"Viet Nam As of 20 January 2019 , there have been a total of 15,540 cases of dengue with no deaths reported in Viet Nam",Dengue-20190214.pdf
+709,2019.0,2,Viet Nam,Dengue,22582.0,up,"As of 24 February 2019 , there have been 38,122 cases of dengue including two deaths reported in Viet Nam",Dengue-20190314.pdf
+710,2019.0,3,Viet Nam,Dengue,2223.0,down,"Viet Nam During week 11 , 2019 , there have been 2,223 dengue cases reported 44 out of 64 provinces , decreased compared to 2,911 cases reported in week 10",Dengue-20190328.pdf
+711,2019.0,4,Viet Nam,Dengue,1234.0,down,"Viet Nam During week 15 , 2019 , there have been 1,234 dengue cases reported from 39 out of 63 provinces , decreased compared to 2,042 cases reported in week 14",Dengue-20190425.pdf
+712,2019.0,5,Viet Nam,Dengue,1614.0,up,"Viet Nam During week 19 of 2019 , there have been 1614 dengue cases reported from 46 out of 63 provinces including one death based on the EWAR system , a decrease of 18.7 % of number of cases compared to last week",Dengue-20190522.pdf
+713,2019.0,6,Viet Nam,Dengue,5133.0,up,"Viet Nam During week 25 of 2019 , there were 5,133 dengue cases reported from 50 out of 63 provinces without deaths",Dengue-20190704.pdf
+714,2019.0,7,Viet Nam,Dengue,9449.0,up,"Viet Nam During week 29 of 2019 , there were 9,449 dengue cases reported from 55 out of 63 provinces with no deaths",Dengue-20190801.pdf
+715,2019.0,8,Viet Nam,Dengue,0.0,down,,
+716,2019.0,9,Viet Nam,Dengue,0.0,down,,
+717,2019.0,10,Viet Nam,Dengue,9355.0,up,"Viet Nam During week 41 of 2019 , there were 9,355 dengue cases including 2 deaths reported",Dengue-20191121.pdf
+718,2019.0,11,Viet Nam,Dengue,0.0,down,,
+719,2019.0,12,Viet Nam,Dengue,4038.0,up,"Viet Nam During week 50 of 2019 , there were 4,038 dengue cases reported without death",Dengue-20200102.pdf
+720,2020.0,1,Viet Nam,Dengue,0.0,up,,
+721,2020.0,2,Viet Nam,Dengue,1282.0,up,"Viet Nam During week 7 , there were 1,282 cases reported without deaths",Dengue-20200227.pdf
+722,2020.0,3,Viet Nam,Dengue,577.0,down,"Viet Nam During week 13 , there were 577 cases reported without deaths , bringing the cumulative cases to 22,356 cases with four deaths as of 29 March",Dengue-20200409.pdf
+723,2020.0,4,Viet Nam,Dengue,605.0,up,"Viet Nam During week 17 , 2020 , there were 605 cases reported with 0 death , of which 82.6 % were hospitalized",Dengue-20200507.pdf
+724,2020.0,5,Viet Nam,Dengue,679.0,up,"Viet Nam During week 19 , 2020 , there were 679 cases reported from 37 out of 63 provinces with 0 death , of which 81 % were hospitalized",Dengue-20200521.pdf
+725,2020.0,6,Viet Nam,Dengue,1724.0,up,"Viet Nam During week 25 , 2020 , there were 1,724 cases reported from 43 out of 63 provinces with no deaths",Dengue-20200702.pdf
+726,2020.0,7,Viet Nam,Dengue,0.0,down,,
+727,2020.0,8,Viet Nam,Dengue,3245.0,up,"Viet Nam During week 35 , 2020 , there were 3,245 cases reported from 50 out of 63 provinces including two deaths , an increase of 6.6 % compared to the cases reported in the previous week ( 3,045 cases , no deaths )",Dengue-20200910.pdf
+728,2020.0,9,Viet Nam,Dengue,67340.0,up,"As of 13 Sep 2020 , a total of 70,585 cases of dengue , including seven deaths , were reported in Viet Nam",Dengue-20200924.pdf
+729,2020.0,10,Viet Nam,Dengue,4042.0,down,"Viet Nam During week 41 ( 5 - 11 October ) , there were 4,042 cases reported from 60 out of 63 provinces , without deaths",Dengue-20201022.pdf
+730,2020.0,11,Viet Nam,Dengue,117356.0,up,"As of 29 November 2020 , a total of 121,398 cases of dengue , including 19 deaths , were reported in Viet Nam",Dengue-20210114.pdf
+731,2020.0,12,Viet Nam,Dengue,0.0,down,,
+732,2021.0,1,Viet Nam,Dengue,9654.0,up,"As of 31 January 2021 , there was a total of 9,654 cases of dengue without any deaths reported in Viet Nam",Dengue-20210211.pdf
+733,2021.0,2,Viet Nam,Dengue,4238.0,down,"As of 28 February 2021 , a total of 13,892 cases of dengue , including three deaths , have been reported in Viet Nam",Dengue-20210311.pdf
+734,2021.0,3,Viet Nam,Dengue,784.0,down,"Viet Nam During week 13 of 2021 , there were 784 cases and no deaths reported from 39 out of 63 provinces",Dengue-20210422.pdf
+735,2021.0,4,Viet Nam,Dengue,20291.0,up,"As of 18 April 2021 , a total of 21,075 cases of dengue , including five deaths , have been reported in Viet Nam",Dengue-20210506.pdf
+736,2021.0,5,Viet Nam,Dengue,7002.0,down,"As of 30 May 2021 , a total of 28,077 cases of dengue , including five deaths , have been reported in Viet Nam",Dengue-20210603.pdf
+737,2021.0,6,Viet Nam,Dengue,1660.0,down,"Viet Nam During week 26 of 2021 , there were 1,660 cases and no deaths reported from 42 out of 63 provinces",Dengue-20210715.pdf
+738,2021.0,7,Viet Nam,Dengue,753.0,down,"Viet Nam During week 30 of 2021 , there were 753 cases and no deaths reported from 38 out of 63 provinces",Dengue-20210812.pdf
+739,2021.0,8,Viet Nam,Dengue,45035.0,up,"As of 22 August 2021 , a total of 45,788 cases of dengue , including 14 deaths , have been reported in Viet Nam",Dengue-20210909.pdf
+740,2021.0,9,Viet Nam,Dengue,2468.0,down,"As of 12 September 2021 , a total of 48,256 cases of dengue , including 18 deaths , have been reported in Viet Nam",Dengue-20210923.pdf
+741,2021.0,10,Viet Nam,Dengue,9243.0,up,"As of 24 October 2021 , a total of 57,499 cases of dengue , including 21 deaths , have been reported in Viet Nam",Dengue-20211104.pdf
+742,2021.0,11,Viet Nam,Dengue,10769.0,up,"As of 21 November 2021 , a total of 68,268 cases of dengue , including 21 deaths have been reported in Viet Nam",Dengue-20211216.pdf
+743,2021.0,12,Viet Nam,Dengue,2676.0,down,"As of 19 December 2021 , a total of 70,944 cases of dengue , including 22 deaths , have been reported in Viet Nam",Dengue-20211229.pdf
+744,2022.0,1,Viet Nam,Dengue,765.0,up,"Viet Nam During epidemiological week 5 of 2022 , there were 765 cases and no deaths reported from 30 out of 63 provinces in Viet Nam",Dengue-20220210.pdf
+745,2022.0,2,Viet Nam,Dengue,5117.0,up,"As of 13 February 2022 , a total of 5,882 cases of dengue , including two deaths were reported in Viet Nam",Dengue-20220224.pdf
+746,2022.0,3,Viet Nam,Dengue,4398.0,down,"As of 13 March 2022 , a total of 10,280 cases of dengue , including four deaths were reported in Viet Nam",Dengue-20220324.pdf
+747,2022.0,4,Viet Nam,Dengue,0.0,down,,
+748,2022.0,5,Viet Nam,Dengue,0.0,down,,
+749,2022.0,6,Viet Nam,Dengue,0.0,down,,
+750,2022.0,7,Viet Nam,Dengue,0.0,down,,
+751,2022.0,8,Viet Nam,Dengue,0.0,down,,
+752,2022.0,9,Viet Nam,Dengue,0.0,down,,
+753,2022.0,10,Viet Nam,Dengue,0.0,down,,
+754,2022.0,11,Viet Nam,Dengue,0.0,down,,
+755,2022.0,12,Viet Nam,Dengue,0.0,down,,
+756,2015.0,1,Viet Nam,Dengue,0.0,up,,
+757,2015.0,2,Viet Nam,Dengue,0.0,down,,
+758,2015.0,3,Viet Nam,Dengue,0.0,down,,
+759,2015.0,4,Viet Nam,Dengue,9727.0,up,"As of 19 April 2015 , there were 9,727 cases of dengue including 8 deaths reported in Viet Nam for 2015",Dengue-20150504.pdf
+760,2015.0,5,Viet Nam,Dengue,1662.0,down,"As of 17 May 2015 , there were 11,389 cases of dengue including 10 deaths reported in Viet Nam for 2015",Dengue-20150602.pdf
+761,2015.0,6,Viet Nam,Dengue,3085.0,up,"As of 21 Jun 2015 , there were 14,474 cases of dengue including 12 deaths reported in Viet Nam for 2015",Dengue-20150701.pdf
+762,2015.0,7,Viet Nam,Dengue,3958.0,up,"Viet Nam As of 19 July 2015 , there were 18,4329 cases of dengue including 12 deaths reported in 2015",Dengue-20150729.pdf
+763,2015.0,8,Viet Nam,Dengue,9020.0,up,"Viet Nam As of 23 August 2015 , there were 27,452 cases of dengue including 17 deaths reported in Viet Nam for 2015",Dengue-20150908.pdf
+764,2015.0,9,Viet Nam,Dengue,11958.0,up,"As of 30 September 2015 , there were 39,410 cases of dengue , including 31 deaths , reported in 49 out of 63 provinces in Viet Nam for 2015",Dengue-20151117.pdf
+765,2015.0,10,Viet Nam,Dengue,19223.0,up,"As of 31 October 2015 , there were 58,633 cases of dengue , including 42 deaths , reported in 52 out of 63 provinces in Viet Nam",Dengue-20151201.pdf
+766,2015.0,11,Viet Nam,Dengue,21279.0,up,"As of 30 November 2015 , there were 79,912 cases of dengue , including 53 deaths , reported in 53 out of 63 provinces in Viet Nam",Dengue-20151229.pdf
+767,2015.0,12,Viet Nam,Dengue,17564.0,down,"As of 31 December 2015 , there were 97,476 cases of dengue , including 61 deaths , reported in 54 out of 63 provinces in Viet Nam",Dengue-20160126.pdf
