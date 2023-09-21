@@ -2,470 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6a10ba2-8be9-43aa-b12f-ef7bb5d11494" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Anisakis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Anthrax.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Ascaris.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Avian flu.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Babesiosis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Botulism.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Brucellosis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Buruliulcer.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Campylobacter Infection.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Chagas disease.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Chickenpox.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Chikungunya.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Chlamydia Infection.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Cholera Infection.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Coccidioidomycosis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Communicable disease.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Congo-Crimean HF.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Coronavirus Infection.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Coxsackie Infection.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/CreutzfeldtJakobDisease.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Cryptosporidiosis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Cytomegalovirus.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Dengue Fever.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Diphtheria.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Dracunculus.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Ebola Hemorrhagic Fever.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Echinococcus.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Emerging disease.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Enteritis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Enterobiasis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Epstein Barr Virus.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Equine encephalitis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Escherichia coli Infection.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Fasciola.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Fasciolopsiasis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Filariasis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Filovirus.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Food poisoning.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Food-borne.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Giardiasis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Gonococcal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Haemophilus influenzae Infection.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Hanta Fever.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Healthcare Associated Infections.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/HendraVirus.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Hepatitis A.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Hepatitis B.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Hepatitis C.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Hepatitis E.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Herpes Zoster.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Herpes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Hookworm.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Hymenolepsis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Influenza.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Japanese Encephalitis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Kaposis Sarcoma.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Lassa Fever.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Legionellosis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Leishmaniasis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Leprosy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Leptospirosis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Listeriosis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Lujo.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Lyme disease.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Lymphogranuloma.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/MERS.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Malaria.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Marburg Hemorrhagic Fever.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Measles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Meningitis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Mumps.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/NDM-1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/NipahVirus.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Norovirus.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Nosocomial.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Onchocerciasis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Pertussis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Pneumococcal Infection.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Pneumonia.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Poliomyelitis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Q Fever.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Rabies.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Respiratory Syncytial Virus Infection.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Rickettsiosis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Roseolo virus.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Rotavirus.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Rubella.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/SARS.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/STD.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Salmonellosis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Saxitoxin Poisoning.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Scabies.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Schistosomiasis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/SchmallenbergVirus.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Shigellosis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Sleeping Sickness.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Smallpox.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Strongyloidiasis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Swine Flu.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Syphilis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/TSE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Tetanus.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Toxoplasma.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Trachoma.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Trichinella.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Trichomoniasis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Trichuris.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Tuberculosis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Tularemia.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Typhoid Fever.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Viral hepatitis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Visceral Leishmaniasis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/West Nile Disease.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Yaws.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Yellow Fever.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Yersinia Pestis (Plague).xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/crawl/Zika Virus.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/medisys_csv.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220523_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220524_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220525_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220526_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220527_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220528_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220529_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220530_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220531_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220601_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220602_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220603_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220604_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220605_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220606_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220607_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220608_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220610_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220611_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220612_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220613_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220614_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220615_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220616_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220617_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220618_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220619_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220620_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220621_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220622_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220623_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220624_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220625_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220626_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220627_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220628_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220629_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220630_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220701_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220702_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220703_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220704_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220705_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220706_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220707_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220708_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220709_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220710_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220711_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220712_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220713_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220714_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220715_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220716_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220717_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220718_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220719_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220720_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220721_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220722_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220723_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220724_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220725_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220726_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220727_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220728_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220729_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220730_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220731_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220801_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220802_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220803_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220804_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220805_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220806_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220807_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220808_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220809_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220810_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220811_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220812_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220813_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220814_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220815_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220816_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220906_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20220907_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221103_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221104_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221105_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221106_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221107_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221108_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221109_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221110_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221111_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221112_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221113_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221114_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221115_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221116_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221117_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221118_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221119_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221120_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221121_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221122_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221123_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221124_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221125_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221126_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221127_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221128_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221129_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221130_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221201_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221202_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221203_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221204_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221205_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221206_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221207_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221208_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221209_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221210_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221211_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221212_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221213_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221214_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221215_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/results/Predict_Result__20221216_Extra_without_corona.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211124-20220523.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211125-20220524.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211126-20220525.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211127-20220526.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211128-20220527.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211129-20220528.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211130-20220529.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211201-20220530.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211202-20220531.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211203-20220601.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211204-20220602.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211205-20220603.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211206-20220604.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211207-20220605.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211208-20220606.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211209-20220607.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211210-20220608.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211212-20220610.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211213-20220611.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211214-20220612.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211215-20220613.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211216-20220614.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211217-20220615.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211218-20220616.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211219-20220617.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211220-20220618.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211221-20220619.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211222-20220620.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211223-20220621.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211224-20220622.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211225-20220623.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211226-20220624.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211227-20220625.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211228-20220626.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211229-20220627.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211230-20220628.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20211231-20220629.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220101-20220630.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220102-20220701.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220103-20220702.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220104-20220703.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220105-20220704.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220106-20220705.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220107-20220706.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220108-20220707.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220109-20220708.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220110-20220709.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220111-20220710.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220112-20220711.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220113-20220712.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220114-20220713.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220115-20220714.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220116-20220715.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220117-20220716.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220118-20220717.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220119-20220718.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220120-20220719.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220121-20220720.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220122-20220721.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220123-20220722.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220124-20220723.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220125-20220724.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220126-20220725.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220127-20220726.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220128-20220727.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220129-20220728.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220130-20220729.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220131-20220730.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220201-20220731.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220202-20220801.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220203-20220802.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220204-20220803.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220205-20220804.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220206-20220805.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220207-20220806.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220208-20220807.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220209-20220808.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220210-20220809.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220211-20220810.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220212-20220811.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220213-20220812.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220214-20220813.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220215-20220814.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220216-20220815.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220217-20220816.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220310-20220906.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220311-20220907.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220507-20221103.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220508-20221104.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220509-20221105.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220510-20221106.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220511-20221107.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220512-20221108.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220513-20221109.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220514-20221110.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220515-20221111.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220516-20221112.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220517-20221113.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220518-20221114.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220519-20221115.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220520-20221116.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220521-20221117.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220522-20221118.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220523-20221119.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220524-20221120.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220525-20221121.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220526-20221122.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220527-20221123.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220528-20221124.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220529-20221125.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220530-20221126.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220531-20221127.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220601-20221128.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220602-20221129.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220603-20221130.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220604-20221201.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220605-20221202.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220606-20221203.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220607-20221204.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220608-20221205.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220609-20221206.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220610-20221207.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220611-20221208.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220612-20221209.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220613-20221210.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220614-20221211.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220615-20221212.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220616-20221213.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220617-20221214.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220618-20221215.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220619-20221216.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220620-20221217.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220621-20221218.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220622-20221219.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220623-20221220.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220624-20221221.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220625-20221222.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220626-20221223.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220627-20221224.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220628-20221225.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220629-20221226.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220630-20221227.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220701-20221228.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220702-20221229.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220703-20221230.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220704-20221231.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220705-20230101.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220706-20230102.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220707-20230103.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220708-20230104.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220709-20230105.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220710-20230106.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220711-20230107.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220712-20230108.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220713-20230109.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220714-20230110.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220715-20230111.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220716-20230112.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220717-20230113.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220718-20230114.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220719-20230115.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220720-20230116.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220721-20230117.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220722-20230118.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220723-20230119.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220724-20230120.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220725-20230121.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220726-20230122.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220727-20230123.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220728-20230124.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220729-20230125.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220830-20230226.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220831-20230227.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220901-20230228.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220902-20230301.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220903-20230302.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220904-20230303.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220905-20230304.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220906-20230305.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220907-20230306.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220908-20230307.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220909-20230308.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220910-20230309.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220911-20230310.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220912-20230311.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220913-20230312.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220914-20230313.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220915-20230314.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220916-20230315.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220917-20230316.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220918-20230317.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220919-20230318.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220920-20230319.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220921-20230320.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220922-20230321.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220923-20230322.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220924-20230323.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220925-20230324.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220926-20230325.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220927-20230326.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220928-20230327.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220929-20230328.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20220930-20230329.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20221001-20230330.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20221002-20230331.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20221003-20230401.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20221004-20230402.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20221005-20230403.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20221006-20230404.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20221007-20230405.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/static/data/train_data/MEDISYS_All_Languages_WHOLE_20221012-20230410.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_main.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_main.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -479,51 +17,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/templates/blog/seq_analyze_tables.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="945">
-              <caret line="63" column="103" selection-start-line="63" selection-start-column="103" selection-end-line="63" selection-end-column="103" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" selection-start-column="9" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blog/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_main.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="49" column="46" lean-forward="true" selection-start-line="49" selection-start-column="46" selection-end-line="49" selection-end-column="46" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
@@ -533,10 +26,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="423" column="52" lean-forward="true" selection-start-line="423" selection-start-column="52" selection-end-line="423" selection-end-column="52" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mysite/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="14" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="14" />
+            <state relative-caret-position="-1142">
+              <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+              <folding>
+                <element signature="e#307#331#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -552,13 +72,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>boot</find>
-      <find>js</find>
-      <find>jq</find>
-      <find>stat</find>
-      <find>assets</find>
-      <find>static</find>
-      <find>asset</find>
       <find>country_name</find>
       <find>get_result</find>
       <find>canvas</find>
@@ -574,14 +87,21 @@
       <find>glob</find>
       <find>go_page</find>
       <find>onevs</find>
-      <find>drw</find>
       <find>svc</find>
       <find>pillow</find>
       <find>email</find>
       <find>MIME</find>
       <find>plotly</find>
       <find>plot</find>
+      <find>drw</find>
       <find>go.</find>
+      <find>dj_</find>
+      <find>dj_database</find>
+      <find>psw</find>
+      <find>pswmod</find>
+      <find>report</find>
+      <find>medisys_about</find>
+      <find>medisys_crawl</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -606,18 +126,18 @@
         <option value="$PROJECT_DIR$/blog/templates/blog/medisys_crawl.html" />
         <option value="$PROJECT_DIR$/blog/templates/blog/top_menu.html" />
         <option value="$PROJECT_DIR$/blog/templates/blog/seq_analyze_tables.html" />
-        <option value="$PROJECT_DIR$/mysite/settings.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
-        <option value="$PROJECT_DIR$/blog/urls.py" />
         <option value="$PROJECT_DIR$/blog/templates/blog/post_main.html" />
         <option value="$PROJECT_DIR$/blog/views.py" />
+        <option value="$PROJECT_DIR$/mysite/settings.py" />
+        <option value="$PROJECT_DIR$/blog/urls.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="4336" />
+    <option name="x" value="3440" />
     <option name="y" value="579" />
-    <option name="width" value="1463" />
+    <option name="width" value="2539" />
     <option name="height" value="1415" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -762,10 +282,10 @@
   </component>
   <component name="TodoView" selected-index="3" />
   <component name="ToolWindowManager">
-    <frame x="4336" y="579" width="1463" height="1415" extended-state="0" />
+    <frame x="3440" y="579" width="2539" height="1415" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49943376" visible="true" weight="0.29056865" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49943376" visible="true" weight="0.1429706" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50056624" side_tool="true" weight="0.24985129" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1042,49 +562,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/templates/blog/seq_analyze_tables.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="63" column="103" selection-start-line="63" selection-start-column="103" selection-end-line="63" selection-end-column="103" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/static/data/df_dbscan_covid_symptom.csv">
       <provider selected="true" editor-type-id="LargeFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="46" lean-forward="true" selection-start-line="49" selection-start-column="46" selection-end-line="49" selection-end-column="46" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="9" selection-end-column="12" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/tests.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -1110,10 +589,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="22" lean-forward="true" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/templates/blog/seq_analyze_tables.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="63" column="103" selection-start-line="63" selection-start-column="103" selection-end-line="63" selection-end-column="103" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1142">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <element signature="e#307#331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="423" column="52" lean-forward="true" selection-start-line="423" selection-start-column="52" selection-end-line="423" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/blog/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="240">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="23" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
