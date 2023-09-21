@@ -1,0 +1,41 @@
+{% extends 'blog/top_menu.html' %}
+
+{% load static %}
+
+{% block content %}
+
+<br>
+
+<div class="container">
+    <div class="row py-lg-5">
+        <div class="col-lg-6 col-md-8 mx-auto">
+            <h1 class="fw-light">Medisys News Data Crawler</h1>
+            <p class="lead text-muted">Medisys에서 제공하는 글로벌 감염병 관련 뉴스 데이터 수집 도구</p>
+            <p>
+                <a href="{% url 'medisys_about' %}" class="btn btn-primary my-2">About</a>
+                <a href="{% url 'medisys_crawl' %}" class="btn btn-secondary my-2">데이터 수집</a>
+            </p>
+        </div>
+    </div>
+    <div class="album py-5 bg-light">
+        <div style="text-align:center;" class="container">
+            <img style="width:50%;" src="{% static 'favicon/medisys.png' %}"/>
+        </div>
+        <br>
+        <div style="padding-left:10%;" class="container">
+            <li>Medisys에서 제공하는 글로벌 감염병 </li>
+            <li>매일 실시간으로 전세계 약 230개 국가에서 발생하는 약 120개 감염병에 대한 기사 원문 링크 제공</li>
+        </div>
+        <br>
+        <div style="text-align:center;" class="container">
+            <img style="width:50%;" src="{% static 'favicon/medisys2.png' %}"/>
+        </div>
+        <br>
+        <div style="padding-left:10%;" class="container">
+            <li>데이터 전처리를 통해 어떤 국가에서 어떤 감염병의 뉴스 기사가 얼마나 발생했는지 살펴봄</li>
+            <li>이러한 데이터를 활용해 감염병 국가 간 유입 위험도 예측 등에 활용 가능</li>
+        </div>
+    </div>
+</div>
+
+{% endblock %}

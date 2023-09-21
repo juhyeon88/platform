@@ -1,0 +1,89 @@
+{% extends 'blog/top_menu.html' %}
+
+{% load static %}
+
+{% block content %}
+<script>
+    function go_page(){
+        var e = document.getElementById("source_select")
+
+        var x = document.getElementById("samples").value;
+        var y = e.options[e.selectedIndex].value;
+        var link_page = '';
+        link_page = '?legend=' + y + '&samples=' + x;
+        window.location=link_page;
+    }
+</script>
+
+<br>
+
+<div class="container">
+    <div class="row py-lg-5">
+        <div class="col-lg-6 col-md-8 mx-auto">
+            <h1 class="fw-light">Vaccine Adverse Events Analyze</h1>
+            <p class="lead text-muted">코로나 19 백신 이상반응 분석 시각화 도구</p>
+            <p>
+                <a href="{% url 'vaers_about' %}" class="btn btn-secondary my-2">About</a>
+                <a href="{% url 'vaers_analyze' %}" class="btn btn-primary my-2">백신 이상반응 분석</a>
+            </p>
+        </div>
+    </div>
+    <div class="album py-5 bg-light">
+        <div style="text-align:center;" class="container">
+            <li>사용자 정보 입력&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</li>
+            <br>
+            <form method="POST">{% csrf_token %}
+                <select name="sex" id="sex" title="성별 선택">
+                <option value>성별</option>
+                <option value="M">남자</option>
+                <option value="F">여자</option>
+                </select>
+                <select name="age" id="age" title="나이 선택">
+                <option value>연령층</option>
+                <option value="0s">10세 이하</option>
+                <option value="10s">10대</option>
+                <option value="20s">20대</option>
+                <option value="30s">30대</option>
+                <option value="40s">40대</option>
+                <option value="50s">50대</option>
+                <option value="60s">60대</option>
+                <option value="70s">70대</option>
+                <option value="80s">80대</option>
+                <option value="90s">90대</option>
+                <option value="_100s">100세 이상</option>
+                </select>
+                <select name="vax_manu" id="vax_manu" title="백신 제조사 선택">
+                <option value>백신 제조사</option>
+                <option value="PFIZER\BIONTECH">화이자</option>
+                <option value="MODERNA">모더나</option>
+                <option value="JANSSEN">얀센</option>
+                </select>
+                <br>
+                <br>
+                <br>
+            <li>기준 선택&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+            <br>
+            <form method="POST">{% csrf_token %}
+                <select name="feature" id="feature" title="기준 선택">
+                <option value>기준</option>
+                <option value="SEX">성별</option>
+                <option value="VAX_MANU">백신 제조사별</option>
+                </select>
+                <h3>&emsp;&emsp;</h3><button onclick="go_page();" type="submit" class="btn btn-secondary my-2">결과 보기</button>
+            </form>
+
+            {% if legend %}
+
+            <div>
+                {% autoescape off %}
+                    {{ plot_div }}
+                {% endautoescape %}
+                {{ table|safe }}
+            </div>
+            {% endif %}
+        </div>
+        <br>
+    </div>
+</div>
+
+{% endblock %}

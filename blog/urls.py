@@ -17,4 +17,9 @@ urlpatterns = [
     path('report/', views.report, name='report'),
     path('dengue/', views.dengue, name='dengue'),
     path('dengue_report/', views.dengue_report, name='dengue_report'),
+    path('medisys_about/', views.medisys_about, name='medisys_about'),
+    path('medisys_crawl/', views.medisys_crawl, name='medisys_crawl'),
+    path('medisys_crawl_func/', views.medisys_crawl_func, name='medisys_crawl_func'),
+    path('vaers_about/', views.vaers_about, name='vaers_about'),
+    path('vaers_analyze/', views.vaers_analyze, name='vaers_analyze'),
 ]

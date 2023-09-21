@@ -52,6 +52,10 @@
                         <option value="tha" {% if country == "Thailand" %} selected {% endif %}>Thailand</option>
                         <option value="usa" {% if country == "United States of America" %} selected {% endif %}>United States of America</option>
                         <option value="uk" {% if country == "United Kingdom" %} selected {% endif %}>United Kingdom</option>
+                        <option value="id" {% if country == "India" %} selected {% endif %}>India</option>
+                        <option value="mx" {% if country == "Mexico" %} selected {% endif %}>Mexico</option>
+                        <option value="arg" {% if country == "Argentina" %} selected {% endif %}>Argentina</option>
+                        <option value="aus" {% if country == "Australia" %} selected {% endif %}>Australia</option>
                     </select>
                 </li>
                 <br>
@@ -79,6 +83,10 @@
             {{ country }} - {{ disease2 }} <a href="https://www.google.com/search?tbm=nws&q={{ country }} {{ disease2 }}" target="_blank">[구글 뉴스 검색]</a> / <a href="https://search.naver.com/search.naver?where=news&sm=top_hty&fbm=1&ie=utf8&query={{ country }} {{ disease2 }}" target="_blank">[네이버 뉴스 검색]</a>
             <br>
             {{ country }} - {{ disease3 }} <a href="https://www.google.com/search?tbm=nws&q={{ country }} {{ disease3 }}" target="_blank">[구글 뉴스 검색]</a> / <a href="https://search.naver.com/search.naver?where=news&sm=top_hty&fbm=1&ie=utf8&query={{ country }} {{ disease3 }}" target="_blank">[네이버 뉴스 검색]</a>
+            <br>
+            {{ country }} - {{ disease4 }} <a href="https://www.google.com/search?tbm=nws&q={{ country }} {{ disease3 }}" target="_blank">[구글 뉴스 검색]</a> / <a href="https://search.naver.com/search.naver?where=news&sm=top_hty&fbm=1&ie=utf8&query={{ country }} {{ disease4 }}" target="_blank">[네이버 뉴스 검색]</a>
+            <br>
+            {{ country }} - {{ disease5 }} <a href="https://www.google.com/search?tbm=nws&q={{ country }} {{ disease3 }}" target="_blank">[구글 뉴스 검색]</a> / <a href="https://search.naver.com/search.naver?where=news&sm=top_hty&fbm=1&ie=utf8&query={{ country }} {{ disease5 }}" target="_blank">[네이버 뉴스 검색]</a>
 
             <br>
             <br>
@@ -112,6 +120,16 @@
                   data: {{ disease3_data }},
                   borderColor: "blue",
                   label: "{{ disease3 }}",
+                  fill: false
+                }, {
+                  data: {{ disease4_data }},
+                  borderColor: "orange",
+                  label: "{{ disease4 }}",
+                  fill: false
+                }, {
+                  data: {{ disease5_data }},
+                  borderColor: "grey",
+                  label: "{{ disease5 }}",
                   fill: false
                 }]
               },

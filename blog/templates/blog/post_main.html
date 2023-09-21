@@ -9,6 +9,7 @@
 <div class="container">
 
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-4">
+        <!--
         <div class="col">
             <div class="card shadow-sm">
                 <img style="height: 225; object-fit: cover;" src="{% static 'favicon/Medisys_Map.png' %}"/>
@@ -24,6 +25,7 @@
                 </div>
             </div>
         </div>
+        -->
 
         <div class="col">
             <div class="card shadow-sm">
@@ -43,6 +45,38 @@
 
         <div class="col">
             <div class="card shadow-sm">
+                <img style="height: 225; object-fit: cover;" src="{% static 'favicon/XGBOOST.png' %}"/>
+
+                <div class="card-body">
+                    <p class="card-text">ECDC에서 제공하는 Medisys 플랫폼 일간 감염병 뉴스 데이터 크롤러 및 수집한 데이터 다운로드 기능과 뷰어 기능 제공</p>
+                    <div class="d-flex justify-content-between align-items-center">
+                        <div class="btn-group">
+                            <a class="btn btn-sm btn-outline-secondary" href="{% url 'medisys_about' %}" role="button">View</a>
+                        </div>
+                        <small class="text-muted">Medisys Crawler</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col">
+            <div class="card shadow-sm">
+                <img style="height: 225; object-fit: cover;" src="{% static 'favicon/vaers_title.png' %}"/>
+
+                <div class="card-body">
+                    <p class="card-text">코로나 19 백신 이상반응 데이터를 기반으로 백신 접종자의 이상반응을 분석하고 그 결과물들을 시각화하 제공</p>
+                    <div class="d-flex justify-content-between align-items-center">
+                        <div class="btn-group">
+                            <a class="btn btn-sm btn-outline-secondary" href="{% url 'vaers_about' %}" role="button">View</a>
+                        </div>
+                        <small class="text-muted">VAERS Data Analyzer</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--
+        <div class="col">
+            <div class="card shadow-sm">
                 <img style="height: 225; object-fit: cover;" src="{% static 'favicon/NER_BERT.png' %}"/>
 
                 <div class="card-body">
@@ -56,22 +90,7 @@
                 </div>
             </div>
         </div>
-
-        <div class="col">
-            <div class="card shadow-sm">
-                <img style="height: 225; object-fit: cover;" src="{% static 'favicon/XGBOOST.png' %}"/>
-
-                <div class="card-body">
-                    <p class="card-text">기상 기후 및 검색 쿼리 데이터와 XGBOOST를 사용한 태국, 프랑스 뎅기열 발생 환자 예측 분석 결과 제공</p>
-                    <div class="d-flex justify-content-between align-items-center">
-                        <div class="btn-group">
-                            <a class="btn btn-sm btn-outline-secondary" href="{% url 'dengue' %}" role="button">View</a>
-                        </div>
-                        <small class="text-muted">Dengue 예측 분석</small>
-                    </div>
-                </div>
-            </div>
-        </div>
+        -->
     </div>
 </div>
 

@@ -1,0 +1,33 @@
+{% extends 'blog/top_menu.html' %}
+
+{% load static %}
+
+{% block content %}
+
+<br>
+
+<div class="container">
+    <div class="row py-lg-5">
+        <div class="col-lg-6 col-md-8 mx-auto">
+            <h1 class="fw-light">Vaccine Adverse Events Analyze</h1>
+            <p class="lead text-muted">코로나 19 백신 이상반응 분석 시각화 도구</p>
+            <p>
+                <a href="{% url 'vaers_about' %}" class="btn btn-primary my-2">About</a>
+                <a href="{% url 'vaers_analyze' %}" class="btn btn-secondary my-2">백신 이상반응 분석</a>
+            </p>
+        </div>
+    </div>
+    <div class="album py-5 bg-light">
+        <div style="text-align:center;" class="container">
+            <img style="width:70%;" src="{% static 'favicon/vaers_about.png' %}"/>
+        </div>
+        <br>
+        <div style="padding-left:10%;" class="container">
+            <li>미국 CDC와 FDA에서 제공하는 코로나 19 백신 이상반응 데이터를 기반으로 </li>
+            <li>입력받은 사용자의 정보(성별/연령층/백신)와 동일하게 접종한 사람들에게 나타난 이상반응을 분석한 시각화 결과를 제공</li>
+        </div>
+        <br>
+    </div>
+</div>
+
+{% endblock %}

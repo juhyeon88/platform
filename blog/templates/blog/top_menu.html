@@ -8,11 +8,11 @@
         <meta name="generator" content="Hugo 0.88.1">
         <title>Predictlab Platform</title>
 
-        <link rel="stylesheet" href="/static/assets/vendor/animate/animate.css">
-        <link rel="stylesheet" href="/static/assets/css/bootstrap.css">
-        <link rel="stylesheet" href="/static/assets/css/maicons.css">
-        <link rel="stylesheet" href="/staticassets/vendor/owl-carousel/css/owl.carousel.css">
-        <link rel="stylesheet" href="/static/assets/css/theme.css">
+        <link rel="stylesheet" href="{% static 'assets/vendor/animate/animate.css' %}">
+        <link rel="stylesheet" href="{% static 'assets/css/bootstrap.css' %}">
+        <link rel="stylesheet" href="{% static 'assets/css/maicons.css' %}">
+        <link rel="stylesheet" href="{% static 'assets/vendor/owl-carousel/css/owl.carousel.css' %}">
+        <link rel="stylesheet" href="{% static 'assets/css/theme.css' %}">
 
         <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/headers/">
 
@@ -86,10 +86,12 @@
                                             <div class="col">
                                                 <li><a class="dropdown-item" href="/">감염병 분석 홈</a></li>
                                                 <li><hr class="dropdown-divider"></li>
-                                                <li><a class="dropdown-item" href="{% url 'drw_info' %}">글로벌 감염병 유입 위험도</a></li>
                                                 <li><a class="dropdown-item" href="{% url 'seq_analyze' %}">SARS-CoV-2 서열 분석</a></li>
+                                                <li><a class="dropdown-item" href="{% url 'medisys_about' %}">Medisys Crawler</a></li>
+                                                <!--
                                                 <li><a class="dropdown-item" href="{% url 'bert' %}">BERT 활용 키워드 분석</a></li>
-                                                <li><a class="dropdown-item" href="{% url 'dengue' %}">Dengue 예측 분석</a></li>
+                                                -->
+                                                <li><a class="dropdown-item" href="{% url 'vaers_about' %}">SARS-CoV-2 백신 이상 반응 분석</a></li>
 
                                             </div>
                                         </div>

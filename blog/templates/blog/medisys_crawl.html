@@ -1,0 +1,69 @@
+{% extends 'blog/top_menu.html' %}
+
+{% load static %}
+
+{% block content %}
+
+<br>
+
+<div class="container">
+    <div class="row py-lg-5">
+        <div class="col-lg-6 col-md-8 mx-auto">
+            <h1 class="fw-light">Medisys News Data Crawler</h1>
+            <p class="lead text-muted">현재 Medisys에서 확인할 수 있는 글로벌 감염병 관련 뉴스 데이터 수집 도구</p>
+            <p>
+                <a href="{% url 'medisys_about' %}" class="btn btn-secondary my-2">About</a>
+                <a href="{% url 'medisys_crawl' %}" class="btn btn-primary my-2">데이터 수집</a>
+            </p>
+        </div>
+    </div>
+    <div class="album py-5 bg-light">
+        <div style="text-align:center;" class="container">
+            <a href="{% url 'medisys_crawl_func' %}" class="btn btn-secondary my-2">Crawl & Download CSV</a>
+            (Crawl 시작 후 약 10분 소요)
+            <br>
+            <br>
+            <form>
+                <li>
+                    질병 선택
+                    <select id="source_select" name="disease">
+                        <option value="Dengue Fever" {% if disease == "Dengue Fever" %} selected {% endif %}>Dengue Fever</option>
+                        <option value="Zika Virus" {% if disease == "Zika Virus" %} selected {% endif %}>Zika Virus</option>
+                        <option value="Chikungunya" {% if disease == "Chikungunya" %} selected {% endif %}>Chikungunya</option>
+                        <option value="West Nile Disease" {% if disease == "West Nile Disease" %} selected {% endif %}>West Nile Disease</option>
+                        <option value="Equine encephalitis" {% if disease == "Equine encephalitis" %} selected {% endif %}>Equine encephalitis</option>
+                        <option value="Japanese Encephalitis" {% if disease == "Japanese Encephalitis" %} selected {% endif %}>Japanese Encephalitis</option>
+                        <option value="Malaria" {% if disease == "Malaria" %} selected {% endif %}>Malaria</option>
+                        <option value="Yellow Fever" {% if disease == "Yellow Fever" %} selected {% endif %}>Yellow Fever</option>
+                        <option value="Diphtheria" {% if disease == "Diphtheria" %} selected {% endif %}>Diphtheria</option>
+                        <option value="Hepatitis A" {% if disease == "Hepatitis A" %} selected {% endif %}>Hepatitis A</option>
+                        <option value="Hepatitis B" {% if disease == "Hepatitis B" %} selected {% endif %}>Hepatitis B</option>
+                        <option value="Hepatitis C" {% if disease == "Hepatitis C" %} selected {% endif %}>Hepatitis C</option>
+                        <option value="Hepatitis E" {% if disease == "Hepatitis E" %} selected {% endif %}>Hepatitis E</option>
+                        <option value="Influenza" {% if disease == "Influenza" %} selected {% endif %}>Influenza</option>
+                        <option value="Lyme disease" {% if disease == "Lyme disease" %} selected {% endif %}>Lyme disease</option>
+                        <option value="MERS" {% if disease == "MERS" %} selected {% endif %}>MERS</option>
+                        <option value="Malaria" {% if disease == "Malaria" %} selected {% endif %}>Malaria</option>
+                        <option value="Measles" {% if disease == "Measles" %} selected {% endif %}>Measles</option>
+                        <option value="Norovirus" {% if disease == "Norovirus" %} selected {% endif %}>Norovirus</option>
+                        <option value="Pneumonia" {% if disease == "Pneumonia" %} selected {% endif %}>Pneumonia</option>
+                        <option value="STD" {% if disease == "STD" %} selected {% endif %}>STD</option>
+                        <option value="Syphilis" {% if disease == "Syphilis" %} selected {% endif %}>Syphilis</option>
+                        <option value="Smallpox" {% if disease == "Smallpox" %} selected {% endif %}>Smallpox</option>
+                    </select>
+                </li>
+                <br>
+                <button onclick="go_page();" type="submit" class="btn btn-secondary my-2">데이터 확인</button>
+            </form>
+
+            {% if table %}
+
+            <div>
+                {{ table|safe }}
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</div>
+
+{% endblock %}

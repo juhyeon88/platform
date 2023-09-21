@@ -1,0 +1,42 @@
+{% extends 'blog/top_menu.html' %}
+
+{% load static %}
+
+{% block content %}
+<script>
+    function go_page(){
+        var e = document.getElementById("source_select")
+
+        var x = document.getElementById("samples").value;
+        var y = e.options[e.selectedIndex].value;
+        var link_page = '';
+        link_page = '?legend=' + y + '&samples=' + x;
+        window.location=link_page;
+    }
+</script>
+
+<br>
+
+<div class="container">
+    <div class="row py-lg-5">
+        <div class="col-lg-6 col-md-8 mx-auto">
+            <h1 class="fw-light">Vaccine Adverse Events Analyze</h1>
+            <p class="lead text-muted">코로나 19 백신 이상반응 분석 시각화 도구</p>
+            <p>
+                <a href="{% url 'vaers_about' %}" class="btn btn-secondary my-2">About</a>
+                <a href="{% url 'vaers_analyze' %}" class="btn btn-primary my-2">백신 이상반응 분석</a>
+            </p>
+        </div>
+    </div>
+    <div class="album py-5 bg-light">
+        <div style="text-align:center;" class="container">
+            <img style="width:100%;" src="{% static 'favicon/vaers1.png' %}">
+        <p>
+        <br>
+            <img style="width:100%;" src="{% static 'favicon/vaers2.png' %}">
+       </div>
+        <br>
+    </div>
+</div>
+
+{% endblock %}

@@ -34,10 +34,10 @@
                 <li>
                     레이블 기준 선택
                     <select id="source_select" name="legend">
-                        <option value="label" {% if legend == "label" %} selected {% endif %}>분류 예측 결과 레이블별</option>
                         <option value="variant2" {% if legend == "variant2" %} selected {% endif %}>변이 종류별</option>
-                        <option value="who_region" {% if legend == "who_region" %} selected {% endif %}>WHO 분류 지역 기준 별</option>
                         <option value="period" {% if legend == "period" %} selected {% endif %}>기간별</option>
+                        <option value="label" {% if legend == "label" %} selected {% endif %}>분류 예측 결과 레이블별</option>
+                        <option value="who_region" {% if legend == "who_region" %} selected {% endif %}>WHO 분류 지역 기준 별</option>
                     </select>
                 </li>
                 <li>
@@ -46,6 +46,26 @@
                      out of 200,000 data
                 </li>
                 <button onclick="go_page();" type="submit" class="btn btn-secondary my-2">결과 보기</button>
+                <br>
+                <br>
+                <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="sample1" name="sample1">
+                    <label class="form-check-label" for="sample1">
+                        샘플 서열1
+                    </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" value="" id="sample2" name="sample2">
+                    <label class="form-check-label" for="sample2">
+                        샘플 서열2
+                    </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" value="" id="sample3" name="sample3">
+                    <label class="form-check-label" for="sample3">
+                        샘플 서열3
+                    </label>
+                </div>
             </form>
             {% if legend %}
 
@@ -53,14 +73,19 @@
                 {% autoescape off %}
                     {{ plot_div }}
                 {% endautoescape %}
-                {% if legend != 'period' %}
                 {{ table|safe }}
-                {% endif %}
             </div>
             {% endif %}
         </div>
         <br>
     </div>
 </div>
+
+<script>
+    function sample_seq1() {
+        navigator.clipboard.writeText("TTGATCTCTTGTAGATCTGTTCTCTAAACGAACTTTAAAATCTGTGTGGCTGTCACTCGGCTGCATGCTTAGTGCACTCA");
+        alert("샘플 서열1이 클립보드에 복사되었습니다!");
+    }
+</script>
 
 {% endblock %}

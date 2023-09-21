@@ -5,18 +5,18 @@
 {% block content %}
 <script type="text/javascript">
 function showImage() {
-    var src=[["../static/figures/France_2019.png","../static/figures/France_2018.png"],
-             ["../static/figures/Korea_2019.png","../static/figures/Korea_2018.png"],
-             ["../static/figures/UK_2019.png","../static/figures/UK_2018.png"]]
-    var src2=[["../static/figures/France_2019_Trend_of_Input_Features.png","../static/figures/France_2018_Trend_of_Input_Features.png"],
-             ["../static/figures/Korea_2019_Trend_of_Input_Features.png","../static/figures/Korea_2018_Trend_of_Input_Features.png"],
-             ["../static/figures/UK_2019_Trend_of_Input_Features.png","../static/figures/UK_2018_Trend_of_Input_Features.png"]]
-    var src3=[["../static/figures/France_2019_Prediction.png","../static/figures/France_2018_Prediction.png"],
-             ["../static/figures/Korea_2019_Prediction.png","../static/figures/Korea_2018_Prediction.png"],
-             ["../static/figures/UK_2019_Prediction.png","../static/figures/UK_2018_Prediction.png"]]
-    var src4=[["../static/figures/France_2019_Feature_Important.png","../static/figures/France_2018_Feature_Important.png"],
-             ["../static/figures/Korea_2019_Feature_Important.png","../static/figures/Korea_2018_Feature_Important.png"],
-             ["../static/figures/UK_2019_Feature_Important.png","../static/figures/UK_2018_Feature_Important.png"]]
+    var src=[["{% static 'figures/France_2019.png' %}","{% static 'figures/France_2018.png' %}"],
+             ["{% static 'figures/Korea_2019.png' %}","{% static 'figures/Korea_2018.png' %}"],
+             ["{% static 'figures/UK_2019.png' %}","{% static 'figures/UK_2018.png' %}"]]
+    var src2=[["{% static 'figures/France_2019_Trend_of_Input_Features.png' %}","{% static 'figures/France_2018_Trend_of_Input_Features.png' %}"],
+             ["{% static 'figures/Korea_2019_Trend_of_Input_Features.png' %}","{% static 'figures/Korea_2018_Trend_of_Input_Features.png' %}"],
+             ["{% static 'figures/UK_2019_Trend_of_Input_Features.png' %}","{% static 'figures/UK_2018_Trend_of_Input_Features.png' %}"]]
+    var src3=[["{% static 'figures/France_2019_Prediction.png' %}","{% static 'figures/France_2018_Prediction.png' %}"],
+             ["{% static 'figures/Korea_2019_Prediction.png' %}","{% static 'figures/Korea_2018_Prediction.png' %}"],
+             ["{% static 'figures/UK_2019_Prediction.png' %}","{% static 'figures/UK_2018_Prediction.png' %}"]]
+    var src4=[["{% static 'figures/France_2019_Feature_Important.png' %}","{% static 'figures/France_2018_Feature_Important.png' %}"],
+             ["{% static 'figures/Korea_2019_Feature_Important.png' %}","{% static 'figures/Korea_2018_Feature_Important.png' %}"],
+             ["{% static 'figures/UK_2019_Feature_Important.png' %}","{% static 'figures/UK_2018_Feature_Important.png' %}"]]
 
     myCountry = document.getElementById("country").value;
     myYear = document.getElementById("year").value;
